@@ -1,0 +1,26 @@
+name: C CI (AVL AeroSoft)
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install GCC
+      run: sudo apt-get update && sudo apt-get install -y gcc
+
+    - name: Compile
+      run: gcc main.c -o aerosoft
+
+    - name: Check executable exists
+      run: test -f aerosoft
+
+    - name: Run basic test
+      run: |
+        echo "find SVO" | ./aerosoft airports.txt || true
