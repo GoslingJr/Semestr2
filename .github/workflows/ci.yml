@@ -9,8 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
     - name: Install GCC
       run: sudo apt-get update && sudo apt-get install -y gcc
@@ -18,9 +17,8 @@ jobs:
     - name: Compile
       run: gcc main.c -o aerosoft
 
-    - name: Check executable exists
-      run: test -f aerosoft
-
-    - name: Run basic test
+    - name: Run tests
       run: |
-        echo "find SVO" | ./aerosoft airports.txt || true
+        echo "find SVO" | ./aerosoft airports.txt
+        echo "add ZZZ:Test Airport" | ./aerosoft airports.txt
+        echo "delete ZZZ" | ./aerosoft airports.txt
