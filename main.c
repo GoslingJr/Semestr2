@@ -27,6 +27,10 @@ Node* createNode(char* code, char* name) {
     return n;
 }
 
+int getBalance(Node *n) {
+    return n ? height(n->left) - height(n->right) : 0;
+}
+
 Node* rotateRight(Node *y) {
     Node *x = y->left;
     Node *T2 = x->right;
@@ -51,10 +55,6 @@ Node* rotateLeft(Node *x) {
     y->height = max(height(y->left), height(y->right)) + 1;
 
     return y;
-}
-
-int getBalance(Node *n) {
-    return n ? height(n->left) - height(n->right) : 0;
 }
 
 Node* insert(Node* node, char* code, char* name) {
@@ -92,6 +92,68 @@ Node* insert(Node* node, char* code, char* name) {
     return node;
 }
 
+Node* minValueNode(Node* node) {
+    Node* current = node;
+    while (current->left)
+        current = current->left;
+    return current;
+}
+
+Node* deleteNode(Node* root, char* code) {
+    if (!root) return root;
+
+    int cmp = strcmp(code, root->code);
+
+    if (cmp < 0)
+        root->left = deleteNode(root->left, code);
+    else if (cmp > 0)
+        root->right = deleteNode(root->right, code);
+    else {
+        if (!root->left || !root->right) {
+            Node *temp = root->left ? root->left : root->right;
+
+            if (!temp) {
+                temp = root;
+                root = NULL;
+            } else {
+                *root = *temp;
+            }
+
+            free(temp);
+        } else {
+            Node* temp = minValueNode(root->right);
+            strcpy(root->code, temp->code);
+            free(root->name);
+            root->name = strdup(temp->name);
+            root->right = deleteNode(root->right, temp->code);
+        }
+    }
+
+    if (!root) return root;
+
+    root->height = 1 + max(height(root->left), height(root->right));
+
+    int balance = getBalance(root);
+
+    if (balance > 1 && getBalance(root->left) >= 0)
+        return rotateRight(root);
+
+    if (balance > 1 && getBalance(root->left) < 0) {
+        root->left = rotateLeft(root->left);
+        return rotateRight(root);
+    }
+
+    if (balance < -1 && getBalance(root->right) <= 0)
+        return rotateLeft(root);
+
+    if (balance < -1 && getBalance(root->right) > 0) {
+        root->right = rotateRight(root->right);
+        return rotateLeft(root);
+    }
+
+    return root;
+}
+
 Node* find(Node* root, char* code) {
     if (!root) return NULL;
 
@@ -102,6 +164,11 @@ Node* find(Node* root, char* code) {
     return find(root->right, code);
 }
 
+int countNodes(Node* root) {
+    if (!root) return 0;
+    return 1 + countNodes(root->left) + countNodes(root->right);
+}
+
 void saveToFile(Node* root, FILE* f) {
     if (!root) return;
 
@@ -110,7 +177,7 @@ void saveToFile(Node* root, FILE* f) {
     saveToFile(root->right, f);
 }
 
-Node* loadFile(const char* filename) {
+Node* loadFile(const char* filename, int *count) {
     FILE* f = fopen(filename, "r");
     if (!f) {
         printf("Ошибка открытия файла\n");
@@ -119,6 +186,7 @@ Node* loadFile(const char* filename) {
 
     Node* root = NULL;
     char line[512];
+    *count = 0;
 
     while (fgets(line, sizeof(line), f)) {
         char *code = strtok(line, ":");
@@ -126,6 +194,7 @@ Node* loadFile(const char* filename) {
 
         if (code && name) {
             root = insert(root, code, name);
+            (*count)++;
         }
     }
 
@@ -133,7 +202,7 @@ Node* loadFile(const char* filename) {
     return root;
 }
 
-void cli(Node* root, const char* filename) {
+void cli(Node** root, const char* filename) {
     char command[512];
 
     while (1) {
@@ -144,25 +213,32 @@ void cli(Node* root, const char* filename) {
             char code[10];
             sscanf(command, "find %s", code);
 
-            Node* n = find(root, code);
+            Node* n = find(*root, code);
             if (n)
                 printf("%s → %s\n", code, n->name);
             else
-                printf("Не найдено\n");
+                printf("Аэропорт с кодом '%s' не найден\n", code);
         }
 
         else if (strncmp(command, "add", 3) == 0) {
             char code[10], name[256];
             sscanf(command, "add %[^:]:%[^\n]", code, name);
-            root = insert(root, code, name);
-            printf("Добавлено\n");
+            *root = insert(*root, code, name);
+            printf("Аэропорт '%s' добавлен\n", code);
+        }
+
+        else if (strncmp(command, "delete", 6) == 0) {
+            char code[10];
+            sscanf(command, "delete %s", code);
+            *root = deleteNode(*root, code);
+            printf("Аэропорт '%s' удалён\n", code);
         }
 
         else if (strncmp(command, "save", 4) == 0) {
             FILE* f = fopen(filename, "w");
-            saveToFile(root, f);
+            saveToFile(*root, f);
             fclose(f);
-            printf("Сохранено\n");
+            printf("База сохранена: %d аэропортов\n", countNodes(*root));
         }
 
         else if (strncmp(command, "quit", 4) == 0) {
@@ -177,11 +253,12 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    Node* root = loadFile(argv[1]);
+    int count = 0;
+    Node* root = loadFile(argv[1], &count);
 
-    printf("Система готова\n");
+    printf("Загружено %d аэропортов. Система готова к работе.\n", count);
 
-    cli(root, argv[1]);
+    cli(&root, argv[1]);
 
     return 0;
 }
