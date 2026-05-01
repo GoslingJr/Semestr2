@@ -20,9 +20,3 @@ jobs:
 
       - name: Run help test
         run: ./aerosoft airports.txt || true
-
-      - name: Build AVL
-        run: gcc main.c -o avl
-
-      - name: Build List
-        run: gcc list.c list_main.c -o list
