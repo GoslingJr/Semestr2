@@ -1,0 +1,3501 @@
+UTK:Utirik Airport
+OCA:Ocean Reef Club Airport
+CSE:Crested Butte Airpark
+CUS:Columbus Airport
+JCY:LBJ Ranch Airport
+WLR:Loring Seaplane Base
+NUP:Nunapitchuk Airport
+PTC:Port Alice Seaplane Base
+ICY:Icy Bay Airport
+PPV:Port Protection Seaplane Base
+KKK:Kalakaket Creek AS Airport
+MHS:Dunsmuir Muni-Mott Airport
+NIR:Chase Field Industrial Airport
+GCT:Grand Canyon Bar Ten Airstrip
+ELW:Ellamar Seaplane Base
+LVD:Lime Village Airport
+HGZ:Hog River Airport
+OTN:Ed-Air Airport
+TLF:Telida Airport
+BZT:Eagle Air Park
+HBH:Entrance Island Seaplane Base
+FAK:False Island Seaplane Base
+BYW:Blakely Island Airport
+DRF:Drift River Airport
+BDF:Rinkenberger Restricted Landing Area
+TEH:Tetlin Airport
+VRS:Roy Otten Memorial Airfield
+GDH:Golden Horn Lodge Seaplane Base
+ATT:Atmautluak Airport
+LIV:Livengood Camp Airport
+PDB:Pedro Bay Airport
+KOZ:Ouzinkie Airport
+TNK:Tununak Airport
+WHD:Hyder Seaplane Base
+MNT:Minto Al Wright Airport
+TKI:Tokeen Seaplane Base
+WKK:Aleknagik / New Airport
+WFB:Ketchikan Harbor Seaplane Base
+RFK:Rollang Field
+NNK:Naknek Airport
+BKF:Lake Brooks Seaplane Base
+BCS:Southern Seaplane Airport
+MMN:Minute Man Air Field
+SPQ:Catalina Air-Sea Terminal Heliport
+TSS:East 34th Street Heliport
+NYS:New York Skyports Inc Seaplane Base
+BWL:Earl Henry Airport
+WYB:Yes Bay Lodge Seaplane Base
+CWS:Center Island Airport
+TEK:Tatitlek Airport
+DUF:Pine Island Airport
+SSW:Stuart Island Airpark
+FOB:Fort Bragg Airport
+PUL:Port of Poulsbo Marina Moorage Seaplane Base
+CCD:Century City Heliport
+WMK:Meyers Chuck Seaplane Base
+AXB:Maxson Airfield
+REE:Reese Airpark
+WDN:Waldron Airstrip
+WWP:Whale Pass Seaplane Float Harbor Facility
+CHU:Chuathbaluk Airport
+UGS:Ugashik Airport
+JID:Recreation and Conference Center Heliport
+PSQ:Philadelphia Seaplane Base
+KLL:Levelock Airport
+SGW:Saginaw Seaplane Base
+WTL:Tuntutuliak Airport
+TWA:Twin Hills Airport
+KCQ:Chignik Lake Airport
+AAD:Adado Airport
+ABP:Atkamba Airport
+ACM:Arica Airport
+ADV:El Daein Airport
+DST:Dubai Seaplane Terminal
+AEE:Adareil Airport
+AEQ:Ar Horqin Airport
+AFK:Kondavattavana Tank Seaplane Base
+BBQ:Burton-Nibbs International Airport
+AFT:Afutara Aerodrome
+RNA:Ulawa Airport
+ATD:Uru Harbour Airport
+VEV:Barakoma Airport
+BPF:Batuna Aerodrome
+GEF:Geva Airport
+AGG:Angoram Airport
+AKS:Gwaunaru'u Airport
+BNY:Bellona/Anua Airport
+CHY:Choiseul Bay Airport
+BAS:Ballalae Airport
+FRE:Fera/Maringe Airport
+HIR:Honiara International Airport
+MBU:Babanakira Airport
+AVU:Avu Avu Airport
+IRA:Ngorangora Airport
+SCZ:Santa Cruz/Graciosa Bay/Luova Airport
+MUA:Munda Airport
+GZO:Nusatupe Airport
+MNY:Mono Airport
+PRS:Parasi Airport
+RNL:Rennell/Tingoa Airport
+EGM:Sege Airport
+NNB:Santa Ana Airport
+RUS:Marau Airport
+VAO:Suavanao Airport
+XYA:Yandina Airport
+AGK:Kagua Airport
+KGE:Kaghau Airport
+KUE:Kukudu Airport
+KWS:Kwailabesi Airport
+LLM:Lomlom Airport
+NAZ:Nana Airport
+MHM:Manaoba Airport
+GTA:Gatokae Aerodrome
+RIN:Ringi Cove Airport
+RBV:Ramata Airport
+TLG:Tulaghi Heliport
+AHY:Ambatolhy Airport
+AIC:Ailinglaplap Airok Airport
+CEX:Chena Hot Springs Airport
+SOL:Solomon State Field
+HED:Herendeen Bay Airport
+TWE:Taylor Airport
+KTH:Tikchik Lodge Seaplane Base
+NKI:Naukati Bay Seaplane Base
+CDL:Candle 2 Airport
+AOS:Amook Bay Seaplane Base
+BSW:Boswell Bay Airport
+AKM:Zakuoma Airport
+VLO:(Duplicate)Vlora International Airport
+ALZ:Alitak Seaplane Base
+YUK:Syunik Airport
+AME:Alto Molocue Airport
+AMY:Ambatomainty Airport
+INU:Nauru International Airport
+ANZ:Angus Downs Airport
+CTV:Catoca Airport
+ANL:Andulo Airport
+CNZ:Cangamba Airport
+DRC:Dirico Airport
+NDF:N'dalatando Airport
+AOB:Annanberg Airport
+AOD:Abou-Deïa Airport
+APP:Asapa Airport
+AQY:Girdwood-Alyeska Airport
+QRF:Bragado Airport
+CVI:Caleta Olivia Airport
+CNT:Charata Airport
+VGS:General Villegas Airport
+LMD:Los Menucos Airport
+VCF:Valcheta Airport
+CPG:Carmen de Patagones Airport
+ARP:Aragip Airport
+ASZ:Asirim Airport
+WFR:(Duplicate)Wolf's Fang Runway
+LYT:Lady Elliot Island Airstrip
+GYZ:Gruyere Airport
+AGW:Agnew Airport
+AYD:Alroy Downs Airport
+BYX:Baniyala Airport
+COB:Coolibah Airport
+CRJ:Coorabie Airport
+CRY:Carlton Hill Airport
+CSD:Cresswell Downs Airport
+DYM:Diamantina Lakes Airport
+HIS:Hayman Island Resort Seaplane Base
+HLV:Helenvale Airport
+KBD:Kimberley Downs Airport
+KGR:Kulgera Airport
+PEP:Peppimenarti Airport
+RDA:Rockhampton Downs Airport
+SSK:Sturt Creek Airport
+SWB:Shaw River Airport
+TWP:Torwood Airport
+ZVG:Springvale Airport
+AWR:Awar Airport (unusable)
+AXF:Alxa Left Banner Bayanhot Airport
+AXO:Pantar Kabir Airport
+AMF:Ama Airport
+UAE:Mount Aue Airport
+AFR:Afore Airstrip
+AUP:Agaun Airport
+ATP:Aitape Airport
+AIH:Aiambak Airport
+AMU:Amanab Airport
+ADC:Andakombe Airport
+AIE:Aiome Airport
+KPM:Kompiam Airport
+AUJ:Ambunti Airport
+AWB:Awaba Airport
+AEK:Aseki Airport
+AYU:Aiyura Airport
+VMU:Baimuru Airport
+BCP:Bambu Airport
+BNM:Bodinumu Airport
+BMZ:Bamu Airport
+BDZ:Baindoung Airport
+BSP:Bensbach Airport
+BWP:Bewani Airport
+BUA:Buka Airport
+BAA:Bialla Airport
+OPU:Balimo Airport
+BMH:Bomai Airport
+BPD:Bapi Airstrip
+BPK:Biangabip Airport
+BRP:Biaru Airport
+BUL:Bulolo Airport
+XBN:Biniguni Airport
+CVB:Chungribu Airport
+CGC:Cape Gloucester Airport
+CMU:Chimbu Airport
+SQT:China Strait Airstrip
+DBP:Debepare Airport
+DER:Derim Airport
+BNT:Bundi Airport
+MDM:Munduku Airport
+KPF:Kondobol Airport
+DNU:Dinangat Airport
+DOI:Doini Airport
+DOO:Dorobisoro Airport
+DAU:Daru Airport
+KRU:Kerau Airport
+EMS:Embessa Airport
+XYR:Edwaki Airport
+EMI:Emirau Airport
+EFG:Efogi Airport
+MHY:Morehead Airport
+EPT:Eliptamin Airport
+EGA:Engati Airstrip
+EMO:Emo River Airstrip
+ERU:Erume Airport
+MFZ:Meselia Airport
+BOT:Bosset Airport
+ERE:Erave Airport
+SWE:Siwea Airport
+FNE:Fane Airport
+FRQ:Feramin Airport
+FIN:Finschhafen Airport
+FAQ:Frieda River Airport
+FUM:Fuma Airport
+GKA:Goroka Airport
+GEW:Gewoia Airport
+GUG:Guari Airport
+GRL:Garasa Airport
+GAR:Garaina Airport
+GAZ:Guasopa Airport
+GOE:Gonaili Airport
+GUR:Gurney Airport
+GAP:Gusap Airport
+PNP:Girua Airport
+GBC:Gasuke Airport
+GMI:Gasmata Island Airport
+AKG:Anguganak Airport
+GVI:Green River Airport
+GOC:Gora Airstrip
+HBD:Habi Airport
+HNI:Heiweni Airport
+HYF:Hayfields Airport
+HNN:Honinabi Airport
+HKN:Hoskins Airport
+HIT:Haivaro Airport
+HWA:Hawabango Airport
+IIS:Nissan Island Airport
+IDN:Indagen Airport
+IMN:Imane Airport
+KGM:Kungim Airport
+IMD:Imonda Airport
+KIE:Aropa Airport
+IAL:Ialibu Airport
+WSA:Wasua Airport
+WIU:Witu Airport
+MPX:Miyanmin Airport
+KGH:Yongai Airport
+JOP:Josephstaal Airport
+LSA:Losuia Airport
+KBM:Kabwum
+KDR:Kandrian Airport
+KMF:Kamina Airport
+KPA:Kopiago Airport
+KAQ:Kamulai Airport
+UNG:Kiunga Airport
+KNE:Kanainj Airport
+KRI:Kikori Airport
+KMA:Kerema Airport
+KKD:Kokoda Airport
+KGW:Kagi Airport
+KRX:Kar Kar Airport
+KZF:Kaintiba Airport
+KUQ:Kuri Airport
+KVG:Kavieng Airport
+KWO:Kawito Airport
+LNV:Londolovit Airport
+LAB:Lab Lab Airport
+KEG:Keglsugl Airport
+KII:Kibuli Airstrip
+LGN:Linga Linga Airport
+LNM:Langimar Airport
+LWI:Lowai Airport
+LPN:Leron Plains Airport
+LNG:Lese Airport
+LNC:Lengbati Airport
+LMI:Lumi Airport
+LSJ:Long Island Airport
+AYM:Yas Island Seaplane Base
+MRM:Manari Airport
+OBM:Morobe Airport
+MYX:Menyamya Airport
+MAG:Madang Airport
+HGU:Mount Hagen Kagamuga Airport
+MXK:Mindik Airport
+MPG:Makini Airport
+GUV:Mougulu Airport
+MDU:Mendi Airport
+MAS:Momote Airport
+MLQ:Malalaua Airport
+MQO:Malam Airport
+MXH:Moro Airport
+MIS:Misima Island Airport
+MKN:Malekolon Airport
+MWG:Marawaka Airport
+MPU:Mapua(Mabua) Airport
+NKN:Nankina Airport
+KEX:Kanabea Airport
+NDN:Nadunumu Airport
+AUI:Aua Island Airport
+GBF:Negarbo(Negabo) Airport
+MFO:Manguna Airport
+NUG:Nuguria Airstrip
+NDI:Namudi Airport
+KSB:Kasonombe Airport
+KDP:Kandep Airport
+NMN:Nomane Airport
+BXZ:Bunsil Airport
+UKU:Nuku Airport
+ATN:Namatanai Airport
+NBA:Nambaiyufa Airport
+LAE:Nadzab Tomodachi International Airport
+OBX:Obo Airport
+KGB:Konge Airport
+OKV:Okao Airport
+OGE:Ogeranang Airport
+OKP:Oksapmin Airport
+HOC:Komako Airport
+KQL:Kol Airport
+OSE:Omora Airport
+KOM:Komo-Manda Airport
+KSP:Kosipe Airport
+KCJ:Komaio Airport
+OLQ:Olsobip Airport
+KDE:Koroba Airport
+OPB:Open Bay Airport
+PLE:Paiela Airport
+PGB:Pangoa Airport
+PDI:Pindiu Airport
+APR:April River Airport
+PGN:Pangia Airport
+PMP:Pimaga Airport
+MPF:Mapoda Airport
+PMN:Pumani Airport
+WLU:Walluanda Airport
+POM:Port Moresby Jacksons International Airport
+KRJ:Karawari Airstrip
+TLP:Tumolbil Airport
+SPH:Sopu Airport
+ONB:Ononge Airport
+SXA:Sialum Airport
+KIQ:Kira Airport
+RBP:Raba Raba Airport
+RMN:Rumginae Airport
+KMR:Karimui Airport
+RKU:Kairuku Airport
+MWI:Maramuni Airport
+KOR:Kakoro(Koroko) Airstrip
+MRH:May River Airstrip
+SBE:Suabi Airport
+SDI:Saidor Airport
+NIS:Simberi Airport
+SFU:Safia Airport
+SIL:Sila Airport
+SBV:Sabah Airport
+SIM:Simbai Airport
+SGK:Sengapi Airstrip
+SXH:Sehulea Airport
+SBC:Selbang Airport
+SMH:Sapmanga Airport
+SPV:Sepik Plains Airport
+TDS:Sasereme Airport
+SKC:Suki Airport
+SXW:Sauren Airport
+SWG:Satwag Airport
+MBV:Masa Airport
+TIZ:Tari Airport
+TBG:Tabubil Airport
+TFM:Telefomin Airport
+TDB:Tetebedi Airport
+TGL:Tagula Airport
+TFB:Tifalmin Airport
+TPI:Tapini Airport
+RAB:Tokua Airport
+TKW:Tekin Airport
+KDQ:Kamberatoro Airport
+TEP:Tep Tep Airport
+TBQ:Tarabo Airport
+TSW:Tsewi Airport
+TRJ:Tarakbits Airport
+TFI:Tufi Airport
+TBE:Timbunke Airport
+TWY:Tawa Airport
+TEO:Terapo Airport
+TKB:Tekadu Airport
+UMC:Umba Airport
+URU:Uroubi Airport
+UBI:Buin Airport
+AUV:Aumo Airport
+GLP:Gulgubip Airport
+UPR:Upiara Airport
+KUX:Kuyol Airport
+UVO:Uvol Airport
+TLW:Talasea Airport
+TCJ:Torembi Airport
+VAI:Vanimo Airport
+TON:Tonu Airport
+WUV:Wuvulu Island Airport
+WAO:Wabo Airport
+WTT:Wantoat Airport
+WBM:Wapenamanda Airport
+WAJ:Wawoi Falls Airport
+AGL:Wanigela Airport
+WNU:Wanuma Airport
+WBC:Wapolu Airport
+WWK:Wewak International Airport
+WOA:Wonenara Airport
+WKN:Wakunai Airport
+WSU:Wasu Airport
+WTP:Woitape Airport
+WUG:Wau Airport
+YVD:Yeva Airport
+SMJ:Sim Airport
+TLO:Tol Airport
+WPM:Wipim Airport
+WEP:Weam Airport
+AYY:Arugam Bay SPB
+KYX:Yalumet Airport
+YEQ:Yenkis(Yankisa) Airport
+TCK:Tinboli Airport
+LNF:Munbil Airport
+RAX:Oram Airport
+KPE:Yapsiei Airport
+KSX:Yasuru Airport
+ZEN:Zenag Airport
+SWR:Silur Airport
+WUM:Wasum Airport
+SIZ:Sissano Airport
+OSG:Ossima Airport
+ZXT:Zabrat Airport
+HAE:Lava Falls Heliport
+AZB:Amazon Bay Airport
+BAJ:Bali Airport
+BCW:Benguera Island Airport
+BCZ:Milyakburra Airport
+JAM:Bezmer Air Base
+JEG:Aasiaat Airport
+AOQ:Aappilattoq Heliport
+AGM:Tasiilaq Heliport
+LLU:Alluitsup Paa Heliport
+QUV:Aappilattoq Heliport
+JRK:Arsuk Heliport
+QUW:Ammassivik Heliport
+QGQ:Attu Heliport
+UAK:Narsarsuaq Airport
+JCH:Qasigiannguit Heliport
+CNP:Neerlerit Inaat Airport
+QFG:Eqalugaarsuit Heliport
+QFN:Narsarmijit Heliport
+JGR:Kangilinnguit Heliport
+GOH:Nuuk International Airport
+JGO:Qeqertarsuaq Heliport
+IKE:Ikerasak Heliport
+QFI:Iginniarfik Heliport
+QRY:Ikerassaarsuk Heliport
+XIQ:Ilimanaq Heliport
+IUI:Innarsuit Heliport
+IOQ:Isortoq Heliport
+QJI:Ikamiut Heliport
+JAV:Ilulissat Airport
+QPW:Kangaatsiaq Heliport
+KUS:Kulusuk Airport
+KUZ:Kuummiut Heliport
+KHQ:Kullorsuaq Heliport
+KGQ:Kangersuatsiaq Heliport
+QJE:Kitsissuarsuit Heliport
+IOT:Illorsuit Heliport
+JSU:Maniitsoq Airport
+JNN:Nanortalik Heliport
+JUU:Nuugaatsiaq Heliport
+JNS:Narsaq Heliport
+NIQ:Niaqornat Heliport
+NSQ:Nuussuaq Heliport
+JFR:Paamiut Airport
+PQT:Qeqertaq Heliport
+NAQ:Qaanaaq Airport
+QJH:Qassimiut Heliport
+OBY:Ittoqqortoormiit Heliport
+SFJ:Kangerlussuaq International Airport
+SGG:Sermiligaaq Heliport
+SRK:Siorapaluk Heliport
+QOQ:Saarloq Heliport
+JHS:Sisimiut Airport
+SAE:Saattut Heliport
+SVR:Savissivik Heliport
+TQA:Tasiusaq Heliport
+THU:Pituffik Space Base
+TQI:Tiniteqilaaq Heliport
+XEQ:Tasiusaq Heliport
+JUV:Upernavik Airport
+UMD:Uummannaq Heliport
+JQA:Qaarsut Airport
+JUK:Ukkusissat Heliport
+BHL:Bahía de los Ángeles Airport
+BHT:Brighton Downs Airport
+AEY:Akureyri International Airport
+BIU:Bildudalur Airport
+BGJ:Borgarfjörður eystri Airport
+BLO:Blönduós Airport
+BXV:Breiðdalsvík Airport
+DJU:Djúpivogur Airport
+EGS:Egilsstaðir Airport
+FAG:Fagurhólsmýri Airport
+GUU:Grundarfjörður Airport
+GJR:Gjögur Airport
+GRY:Grímsey Airport
+HVK:Hólmavík Airport
+HFN:Hornafjörður Airport
+HZK:Húsavík Airport
+IFJ:Ísafjörður Airport
+KEF:Keflavik International Airport
+OPA:Kópasker Airport
+SAK:Sauðárkrókur Airport
+NOR:Norðfjörður Airport
+RHA:Reykhólar Airport
+OLI:Rif Airport
+RFN:Raufarhöfn Airport
+RKV:Reykjavík Domestic Airport
+MVA:Mývatn Airport
+SIJ:Siglufjörður Airport
+SYK:Stykkishólmur Airport
+TEY:Þingeyri Airport
+THO:Þórshöfn Airport
+VEY:Vestmannaeyjar Airport
+VPN:Vopnafjörður Airport
+BJE:Baleela Airport
+BJQ:Bahja Airport
+BJT:Bentota River Waterdrome
+PRN:Priština Adem Jashari International Airport
+BMQ:Bamburi Airport
+BNF:Baranof Warm Springs Float and Seaplane Base
+BNV:Boana Airport
+BVL:Baures Airport
+BOV:Boang Airport
+BQV:Bartlett Cove Seaplane Base
+CJZ:Pedro Vieira Moreira Airport
+VDC:Glauber de Andrade Rocha Airport
+CMP:Santana do Araguaia Airport
+AAI:Arraias Airport
+ITN:Tertuliano Guedes de Pinho Airport
+LEP:Leopoldina Airport
+CPU:Cururupu Airport
+CTQ:Santa Vitória do Palmar Airport
+APY:Alto Parnaíba Airport
+JRN:Juruena Airport
+MTG:Vila Bela da Santíssima Trindade Airport
+ALT:Alenquer Municipal Airport
+NSB:Bimini North Seaplane Base
+BSV:Besakoa Airport
+BTZ:Betong International Airport
+HUK:Hukuntsi Airport
+BWJ:Bawan Airport
+BXL:Blue Lagoon Seaplane Base
+TXC:Orsha Airport - Balbasovo Air Base
+BYA:Boundary Airport
+BYL:Bella Yella Airport
+BYV:Beira Lake Seaplane Base
+BCV:Hector Silva Airstrip
+BGK:Big Creek Airport
+CUK:Caye Caulker Airport
+CYC:Caye Chapel Airport
+CZH:Corozal Airport
+DGA:Dangriga Airport
+INB:Independence Airport
+MDB:Melinda Airport
+ORZ:H.E Alfredo Martinez (Tower Hill) Airstrip
+PND:Punta Gorda Airport
+SJX:Sartaneja Airport
+SPR:John Greif II Airport
+SQS:Matthew Spain Airport
+STU:Santa Cruz Airport
+SVK:Silver Creek Airport
+TZA:Sir Barry Bowen Municipal Airport
+BZB:Bazaruto Island Airport
+BZM:Bemolanga Airport
+PFM:Primrose Airport
+YSV:Saglek Airport
+YRR:Stuart Island Airstrip
+YMV:Mary River Aerodrome
+YHC:Hakai Passage Water Aerodrome
+YMF:Montague Harbour Seaplane Base
+PYS:Paradise Skypark Airport
+YBW:Bedwell Harbour Seaplane Base
+YTP:Tofino Harbour Seaplane Base
+CBA:Alpine Heliport
+ZNA:Nanaimo Harbour Water Aerodrome
+YZZ:Trail Regional Airport
+YMB:Merritt Airport
+YHH:Campbell River Seaplane Base
+YWS:Whistler/Green Lake Water Aerodrome
+YBF:Bamfield Seaplane Base
+YIG:Big Bay Seaplane Base
+CJH:Chilko Lake (Tsylos Park Lodge) Airport
+YPT:Pender Harbour Seaplane Base
+ZOF:Ocean Falls Seaplane Base
+YCA:Courtenay Airpark
+CFQ:Creston Valley Regional Airport - Art Sutcliffe Field
+YAA:Anahim Lake Airport
+DGF:Douglas Lake Airport
+JHL:Fort MacKay/Albian Aerodrome
+ZTS:Tahsis Seaplane Base
+DUQ:Duncan Airport
+YHS:Sechelt-Gibsons Airport
+YKK:Kitkatla Seaplane Base
+ZQS:Queen Charlotte City Seaplane Base
+WPL:Powell Lake Seaplane Base
+XQU:Qualicum Beach Airport
+YMP:Port McNeill Airport
+YRN:Rivers Inlet Seaplane Base
+YTG:Sullivan Bay Seaplane Base
+YMU:Mansons Landing Seaplane Base
+YAV:Mayne Island Seaplane Base
+YSX:Bella Bella/Shearwater Seaplane Base
+YGG:Ganges Seaplane Base
+YTB:Hartley Bay Seaplane Base
+YZA:Cache Creek-Ashcroft Regional Airport
+ZEL:Bella Bella (Campbell Island) Airport
+CBC:Cherrabun Airport
+YPB:Alberni Valley Regional Airport
+YBO:Bob Quinn Lake Airport
+TNS:Tungsten (Cantung) Airport
+TUX:Tumbler Ridge Airport
+YWM:Williams Harbour Airport
+YSO:Postville Airport
+YBI:Black Tickle Airport
+YHG:Charlottetown Airport
+YFX:St. Lewis (Fox Harbour) Airport
+YHA:Port Hope Simpson Airport
+YRG:Rigolet Airport
+KGN:Kasongo-Lunda Airport
+DVK:Diavik Airport
+JOJ:Doris Lake
+ZFW:Fairview Airport
+YJP:Jasper-Hinton Airport
+YLE:Whatì Airport
+YDC:Drayton Valley Industrial Airport
+NML:Fort McMurray / Mildred Lake Airport
+CFM:Conklin (Leismer) Airport
+KWD:Kavadja Airport
+GSL:Taltheilei Narrows Airport
+XMP:Macmillan Pass Airport
+DAS:Great Bear Lake Airport
+YFI:Fort Mackay / Firebag
+YOE:Donnelly Airport
+TIL:Cheadle Airport
+OKG:Okoyo Airport
+CGA:Craig Seaplane Base
+CGG:Casiguran Airport
+GHK:Gahcho Kue
+CHP:Circle Hot Springs Airport
+LRQ:Laurie River Airport
+YDJ:Hatchet Lake Airport
+YDU:Kasba Lake Airport
+YFL:Fort Reliance Seaplane Base
+XCL:Cluff Lake Airport
+YKE:Knee Lake Airport
+SUR:Summer Beaver Airport
+CKD:Crooked Creek Airport
+YTT:Tisdale Airport
+YAX:Wapekeka Airport
+WNN:Wunnumin Lake Airport
+YBS:Opapimiskan Lake Airport
+YNO:North Spirit Lake Airport
+CKR:Crane Island Airstrip
+CKU:Cordova Municipal Airport
+YDW:North of Sixty Airport
+CKX:Chicken Airport
+CMT:New Cametá Airport
+CMZ:Caia Airport
+ZKL:Zigong Fengming Airport
+BZX:Bazhong Enyang Airport
+DFA:Shangluo Airport
+HSC:Shaoguan Danxia Airport
+JGS:Jinggangshan Airport
+HNG:Hainanzhou Gonghe Airport
+JNH:Jiaxing Nanhu Airport
+DWS:Morin Dawa Banner Airport
+LCT:Shijiazhuang Luancheng Airport
+WHN:Wuhan Hannan Municipal Airport
+PFA:Harbin Pingfang Airport
+PNJ:Penglai Shahekou Airport
+CBZ:Binzhou Dagao General Aviation Airport
+DDR:Shigatse Tingri Airport
+HQL:Tashikuergan Hongqilafu Airport
+HEW:Dongyang Hengdian General Airport
+JDE:Jiande Qiandaohu General Airport
+HLJ:Zhaodong Beidahuang General Airport
+TYC:Taiyuan Yaocheng Airport
+WRH:Wuerhe Airport
+JRJ:Ganzhou Ruijin Airport
+APJ:Ali Pulan Airport
+ZFL:Zhaosu Tianma Airport
+YEH:Yinchuan Yueyahu Airport
+LCS:Longchuan Guangsong Airport
+LFH:Lanping Fenghua General Airport
+ZGN:Zhongshan Ferry Port
+BZJ:Bozhou Airport (under construction)
+BKV:Bailing Airport
+HJB:Hejing Bayinbuluke Airport
+OTQ:Otog Front Banner Oljoq Airport
+JBK:Qitai Jiangbulake Airport
+ZAT:Zhaotong Zhaoyang Airport （Not fully opened)
+LIJ:Lishui Airport
+YHJ:Nanchang Yaohu Airport
+OTO:Otog Banner Wulan Airport
+NAY:Beijing Nanyuan Airport
+BFY:Bengbu Tenghu Airport
+XBE:Bearskin Lake Airport
+YNP:Natuashish Airport
+YWR:White River Seaplane Base
+YPD:Parry Sound Area Municipal Airport
+XBR:Brockville - Thousand Islands Regional Tackaberry Airport
+KIF:Kingfisher Lake Airport
+LCR:Virgilio Barco Vargas (La Chorrera) Airport
+YEB:Bar River Airport
+CPI:Cape Orford Airport
+YSI:Parry Sound/Frying Pan Island-Sans Souci Seaplane Base
+KEW:Keewaywin Airport
+ACO:Cóbano Airport
+KFM:Kirby Lake Airport
+YSA:Sable Island Airport.
+YLS:Lebel-sur-Quevillon Airport
+YNX:Snap Lake Airport
+SSQ:La Sarre Airport
+YKU:Chisasibi Airport
+ZTB:Tête-à-la-Baleine Airport
+ZKG:Kégashka Airport
+YWQ:Chute-Des-Passes/Lac Margane Seaplane Base
+CTP:Carutapera Airport
+YAU:Donaldson Airport
+ZGS:La Romaine Airport
+YFG:Fontanges Airport
+ZLT:La Tabatière Airport
+CUJ:Culion Airport
+CVL:Cape Vogel Airport
+CXC:Chitina Airport
+YAB:Arctic Bay Airport
+YAC:Cat Lake Airport
+YAR:La Grande-3 Airport
+YAG:Fort Frances Municipal Airport
+YAH:La Grande-4 Airport
+YAL:Alert Bay Airport
+YAM:Sault Ste Marie Airport
+XKS:Kasabonika Airport
+YKG:Kangirsuk Airport
+YAT:Attawapiskat Airport
+YAY:St. Anthony Airport
+YAZ:Tofino / Long Beach Airport
+YBA:Banff Airport
+YBB:Kugaaruk Airport
+YBC:Baie-Comeau Airport
+QBC:Bella Coola Airport
+YBE:Uranium City Airport
+YBY:Bonnyville Airport
+YBG:Saguenay-Bagotville Airport
+YBK:Baker Lake Airport
+YBL:Campbell River Airport
+XTL:Tadoule Lake Airport
+YBR:Brandon Municipal Airport
+YBT:Brochet Airport
+YBV:Berens River Airport
+YBX:Lourdes-de-Blanc-Sablon Airport
+YRF:Cartwright Airport
+YCB:Cambridge Bay Airport
+YCC:Cornwall Regional Airport
+YCD:Nanaimo Airport
+YCE:Centralia / James T. Field Memorial Aerodrome
+YCG:Castlegar/West Kootenay Regional Airport
+YCH:Miramichi Airport
+XCM:Chatham Kent Airport
+YCL:Charlo Airport
+YCN:Cochrane Airport
+YCO:Kugluktuk Airport
+YCQ:Chetwynd Airport
+YCR:Cross Lake (Charlie Sinclair Memorial) Airport
+YCS:Chesterfield Inlet Airport
+YCT:Coronation Airport
+YCW:Chilliwack Airport
+YCY:Clyde River Airport
+YCZ:Fairmont Hot Springs Airport
+YDA:Dawson City Airport
+YDB:Burwash Airport
+YDF:Deer Lake Airport
+YDL:Dease Lake Airport
+XRR:Ross River Airport
+YDN:Dauphin Barker Airport
+YDO:Dolbeau-Saint-Felicien Airport
+YDP:Nain Airport
+YDQ:Dawson Creek Airport
+YEG:Edmonton International Airport
+YEK:Arviat Airport
+YEL:Elliot Lake Municipal Airport
+YEM:Manitoulin East Municipal Airport
+YEN:Estevan Airport
+YER:Fort Severn Airport
+YET:Edson Airport
+YEU:Eureka Airport
+YEV:Inuvik Mike Zubko Airport
+YEY:Amos/Magny Airport
+YFA:Fort Albany Airport
+YFB:Iqaluit Airport
+YFC:Fredericton International Airport
+YFE:Forestville Airport
+YFH:Fort Hope Airport
+YTM:Mont-Tremblant International Airport
+YFO:Flin Flon Airport
+YFR:Fort Resolution Airport
+YFS:Fort Simpson Airport
+YMN:Makkovik Airport
+YGB:Texada Gillies Bay Airport
+YGH:Fort Good Hope Airport
+YGK:Kingston Norman Rogers Airport
+YGL:La Grande Rivière Airport
+YGM:Gimli Industrial Park Airport
+YGO:Gods Lake Narrows Airport
+YGP:Michel-Pouliot Gaspé Airport
+YGQ:Geraldton Greenstone Regional Airport
+YGR:Îles-de-la-Madeleine Airport
+YGT:Igloolik Airport
+YGV:Havre-Saint-Pierre Airport
+YGW:Kuujjuarapik Airport
+YGX:Gillam Airport
+YGZ:Grise Fiord Airport
+YQC:Quaqtaq Airport
+YHB:Hudson Bay Airport
+CXH:Vancouver Harbour Water Aerodrome
+YHD:Dryden Regional Airport
+YHE:Hope Airport / FVRD Regional Airpark
+YHF:Hearst René Fontaine Municipal Airport
+YNS:Nemiscau Airport
+YHI:Ulukhaktok Holman Airport
+YHK:Gjoa Haven Airport
+YHM:John C. Munro Hamilton International Airport
+YHN:Hornepayne Municipal Airport
+YHO:Hopedale Airport
+YHP:Poplar Hill Airport
+YHR:Chevery Airport
+YHT:Haines Junction Airport
+YHU:Montréal / Saint-Hubert Metropolitan Airport
+YHY:Hay River / Merlyn Carter Airport
+YHZ:Halifax / Stanfield International Airport
+YIB:Atikokan Municipal Airport
+YDG:Digby / Annapolis Regional Airport
+YIF:St Augustin Airport
+YIK:Ivujivik Airport
+YIO:Pond Inlet Airport
+YIV:Island Lake Airport
+YJA:Jasper Airport
+YJF:Fort Liard Airport
+YJN:St Jean Airport
+YJT:Stephenville Dymond International Airport
+YKA:Kamloops John Moose Fulton Field Regional Airport
+YKC:Collins Bay Airport
+LAK:Aklavik/Freddie Carmichael Airport
+YKF:Region of Waterloo International Airport
+YWB:Kangiqsujuaq (Wakeham Bay) Airport
+YKJ:Key Lake Airport
+YKL:Schefferville Airport
+YKD:Kincardine Municipal Airport
+AKV:Akulivik Airport
+YOG:Ogoki Post Airport
+YKQ:Waskaganish Airport
+YKX:Kirkland Lake Airport
+YKY:Kindersley Airport
+YPJ:Aupaluk Airport
+YLB:Lac La Biche Airport
+YLC:Kimmirut Airport
+YLD:Chapleau Airport
+YLH:Lansdowne House Airport
+YLJ:Meadow Lake Airport
+YSG:Lutselk'e Airport
+YLL:Lloydminster Airport
+YLQ:La Tuque Airport
+YLR:Leaf Rapids Airport
+YLK:Barrie-Lake Simcoe Regional Airport
+YLT:Alert Airport
+XGR:Kangiqsualujjuaq (Georges River) Airport
+YLW:Kelowna International Airport
+CYM:Chatham Seaplane Base
+YMA:Mayo Airport
+YME:Matane Airport
+YMG:Manitouwadge Airport
+YMH:Mary's Harbour Airport
+YMJ:Moose Jaw Air Vice Marshal C. M. McEwen Airport
+YML:Charlevoix Airport
+YMM:Fort McMurray International Airport
+YMO:Moosonee Airport
+YMT:Chapais Airport
+YUD:Umiujaq Airport
+YMW:Maniwaki Airport
+YMX:Montreal Mirabel International Airport
+YNA:Natashquan Airport
+YNC:Wemindji Airport
+YND:Ottawa / Gatineau Airport
+YNE:Norway House Airport
+YNH:Hudson's Hope Airport
+YLY:Langley Airport
+YNL:Points North Landing Airport
+YNM:Matagami Airport
+HZP:Fort Mackay / Horizon Airport
+YOA:Ekati Airport
+YOC:Old Crow Airport
+YOD:CFB Cold Lake
+YOH:Oxford House Airport
+YOJ:High Level Airport
+YOO:Oshawa Executive Airport
+YOP:Rainbow Lake Airport
+YOS:Owen Sound / Billy Bishop Regional Airport
+YOW:Ottawa Macdonald-Cartier International Airport
+YPA:Prince Albert Glass Field
+YPC:Paulatuk (Nora Aliqatchialuk Ruben) Airport
+YPS:Port Hawkesbury Airport
+YPE:Peace River Airport
+YPG:Portage-la-Prairie / Southport Airport
+YPH:Inukjuak Airport
+YPL:Pickle Lake Airport
+YPM:Pikangikum Airport
+YPN:Port-Menier Airport
+YPO:Peawanuck Airport
+YPQ:Peterborough Regional Airport
+YPR:Prince Rupert Airport
+YPW:Powell River Airport
+YPX:Puvirnituq Airport
+YPY:Fort Chipewyan Airport
+YPZ:Burns Lake Airport
+YQA:Muskoka Airport
+YQB:Quebec Jean Lesage International Airport
+YQD:The Pas Airport
+YQF:Red Deer Regional Airport
+YQG:Windsor International Airport
+YQH:Watson Lake Airport
+YQI:Yarmouth Airport
+YQK:Kenora Airport
+YQL:Lethbridge County Airport
+YQM:Greater Moncton Roméo LeBlanc International Airport
+YQN:Nakina Airport
+YQQ:Comox Valley International Airport / CFB Comox
+YQR:Regina International Airport
+YQS:St Thomas Municipal Airport
+YQT:Thunder Bay International Airport
+YQU:Grande Prairie Airport
+YQV:Yorkton Municipal Airport
+YQW:North Battleford Airport
+YQX:Gander International Airport
+YQY:Sydney / J.A. Douglas McCurdy Airport
+YQZ:Quesnel Airport
+YRA:Rae Lakes Airport
+YRB:Resolute Bay Airport
+YRI:Rivière-du-Loup Airport
+YRJ:Roberval Airport
+YRL:Red Lake Airport
+YRM:Rocky Mountain House Airport
+YRO:Ottawa / Rockcliffe Airport
+YRQ:Trois-Rivières Airport
+YRS:Red Sucker Lake Airport
+YRT:Rankin Inlet Airport
+YRV:Revelstoke Airport
+YSB:Sudbury Airport
+YSC:Sherbrooke Airport
+YSD:Canadian Forces Base Suffield Heliport
+YSE:Squamish Airport
+YSF:Stony Rapids Airport
+YSH:Smiths Falls-Montague (Russ Beach) Airport
+YSJ:Saint John Airport
+YSK:Sanikiluaq Airport
+YSL:Saint-Léonard Airport
+YSM:Fort Smith Airport
+YCM:Niagara District Airport
+YSP:Marathon Airport
+YST:St. Theresa Point Airport
+YSU:Summerside Airport
+YSY:Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport
+YTA:Pembroke Airport
+YTE:Cape Dorset Airport
+YTF:Alma Airport
+YTH:Thompson Airport
+YTL:Big Trout Lake Airport
+YTQ:Tasiujaq Airport
+YTR:CFB Trenton
+YTS:Timmins/Victor M. Power
+YTZ:Billy Bishop Toronto City Airport
+YUB:Tuktoyaktuk / James Gruben Airport
+YUL:Montreal / Pierre Elliott Trudeau International Airport
+YUT:Naujaat Airport
+YUX:Hall Beach Airport
+YUY:Rouyn Noranda Airport
+YVB:Bonaventure Airport
+YVC:La Ronge Airport
+YVG:Vermilion Airport
+YVE:Vernon Regional Airport
+YCK:Tommy Kochon Airport
+YVM:Qikiqtarjuaq Airport
+YVO:Val-d'Or Airport
+YVP:Kuujjuaq Airport
+YVQ:Norman Wells Airport
+YVR:Vancouver International Airport
+YVT:Buffalo Narrows Airport
+YVV:Wiarton Airport
+YVZ:Deer Lake Airport
+YWA:Petawawa Heliport
+YFJ:Wekweètì Airport
+YWG:Winnipeg / James Armstrong Richardson International Airport
+YWH:Victoria Harbour Seaplane Base
+YWJ:Déline Airport
+YWK:Wabush Airport
+YWL:Williams Lake Airport
+YWP:Webequie Airport
+YWY:Wrigley Airport
+YXC:Cranbrook/Canadian Rockies International Airport
+YXE:Saskatoon John G. Diefenbaker International Airport
+YXH:Medicine Hat Regional Airport
+YXJ:Fort St John / North Peace Regional Airport
+YXK:Rimouski Airport
+YXL:Sioux Lookout Airport
+YXN:Whale Cove Airport
+YXP:Pangnirtung Airport
+YXQ:Beaver Creek Airport
+YXR:Earlton (Timiskaming Regional) Airport
+YXS:Prince George (International) Airport
+YXT:Northwest Regional Airport Terrace-Kitimat
+YXU:London International Airport
+YXX:Abbotsford International Airport
+YXY:Whitehorse / Erik Nielsen International Airport
+YXZ:Wawa Airport
+YYB:North Bay Jack Garland Airport
+YYC:Calgary International Airport
+YYD:Smithers Airport
+YYE:Fort Nelson Airport
+YYF:Penticton Airport
+YYG:Charlottetown Airport
+YYH:Taloyoak Airport
+YYJ:Victoria International Airport
+YYL:Lynn Lake Airport
+YYM:Cowley Airport
+YYN:Swift Current Airport
+YYQ:Churchill Airport
+YYR:Goose Bay Airport
+YYT:St. John's International Airport
+YYU:Kapuskasing Airport
+YYW:Armstrong Airport
+YYY:Mont Joli Airport
+YYZ:Toronto Pearson International Airport
+YZE:Gore Bay Manitoulin Airport
+YZF:Yellowknife International Airport
+YZG:Salluit Airport
+YZH:Slave Lake Airport
+YZP:Sandspit Airport
+YZR:Chris Hadfield Airport
+YZS:Coral Harbour Airport
+YZT:Port Hardy Airport
+YZU:Whitecourt Airport
+YZV:Sept-Îles Airport
+YZW:Teslin Airport
+YZX:CFB Greenwood
+ZAC:York Landing Airport
+YSN:Shuswap Regional Airport
+YDT:Boundary Bay Airport
+ILF:Ilford Airport
+ZBF:Bathurst Airport
+ZBM:Bromont (Roland Désourdy) Airport
+KES:Kelsey Airport
+ZEM:Eastmain River Airport
+ZFA:Faro Airport
+ZFD:Fond-du-Lac Airport
+XPK:Pukatawagan Airport
+ZFM:Fort Mcpherson Airport
+ZFN:Tulita Airport
+ZGF:Grand Forks Airport
+ZGI:Gods River Airport
+ZGR:Little Grand Rapids Airport
+ZHP:High Prairie Airport
+CZJ:Corazón de Jesús Airport
+ZJG:Jenpeg Airport
+ZJN:Swan River Airport
+ZKE:Kashechewan Airport
+YTD:Thicket Portage Airport
+MSA:Muskrat Dam Airport
+ZMH:South Cariboo Region / 108 Mile Airport
+PIW:Pikwitonei Airport
+ZMT:Masset Airport
+CZN:Chisana Airport
+XPP:Poplar River Airport
+CZO:Chistochina Airport
+ZPB:Sachigo Lake Airport
+WPC:Pincher Creek Airport
+ZPO:Pinehouse Lake Airport
+ZRJ:Round Lake (Weagamow Lake) Airport
+ZSJ:Sandy Lake Airport
+XSI:South Indian Lake Airport
+ZST:Stewart Airport
+ZSW:Prince Rupert/Seal Cove Seaplane Base
+YDV:Bloodvein River Airport
+ZTM:Shamattawa Airport
+ZUC:Ignace Municipal Airport
+ZUM:Churchill Falls Airport
+XLB:Lac Brochet Airport
+ZWL:Wollaston Lake Airport
+IUA:Canandaigua Airport
+DJN:Delta Junction Airport
+MQV:Mostaganem Airport
+BUJ:Bou Saada Airport
+BJA:Soummam–Abane Ramdane Airport
+ALG:Houari Boumediene Airport
+DJG:Tiska Djanet Airport
+VVZ:Illizi Takhamalt Airport
+QSF:Ain Arnat Airport
+TMR:Aguenar – Hadj Bey Akhamok Airport
+GJL:Jijel Ferhat Abbas Airport
+MZW:Mecheria Airport
+AAE:Annaba Rabah Bitat Airport
+CZL:Mohamed Boudiaf International Airport
+TEE:Cheikh Larbi Tébessi Airport
+BLJ:Batna Mostefa Ben Boulaid Airport
+DAF:Daup Airport
+HRM:Hassi R'Mel Airport
+DAH:Dathina Airport
+DAO:Dabo Airport
+TID:Abdelhafid Boussouf Bou Chekif Airport
+TIN:Tindouf Airport
+CFK:Chlef Aboubakr Belkaid International Airport
+TAF:Oran Tafraoui Airport
+TLM:Zenata – Messali El Hadj Airport
+ORN:Oran Es-Sénia (Ahmed Ben Bella) International Airport
+CBH:Béchar Boudghene Ben Ali Lotfi Airport
+BFW:Sidi Bel Abbes Airport
+MUW:Ghriss Airport
+EBH:El Bayadh Airport
+INF:In Guezzam Airport
+BMW:Bordj Badji Mokhtar Airport
+AZR:Touat-Cheikh Sidi Mohamed Belkebir Airport
+BSK:Biskra - Mohamed Khider Airport
+ELG:El Golea Airport
+GHA:Noumérat - Moufdi Zakaria Airport
+HME:Hassi Messaoud-Oued Irara Krim Belkacem Airport
+INZ:In Salah Airport
+TGR:Touggourt Sidi Madhi Airport
+LOO:Laghouat - Molay Ahmed Medeghri Airport
+ELU:Guemar Airport - مطار قمار بالوادي
+TMX:Timimoun Airport
+OGX:Ain Beida Airport
+IAM:Zarzaitine - In Aménas Airport
+COO:Cotonou Cadjehoun International Airport
+DJA:Djougou Airport
+KDC:Kandi Airport
+NAE:Natitingou Airport
+PKO:Parakou Airport
+SVF:Savé Airport
+DBK:Dutch Bay SPB
+DBU:Dambulu Oya Tank Seaplane Base
+DCK:Dahl Creek Airport
+DDM:Dodoima Airport
+DEQ:Deqing Moganshan Airport
+DEX:Nop Goliat Dekai Airport
+XKY:Kaya Airport
+OUG:Ouahigouya Airport
+XDJ:Djibo Airport
+XLU:Leo Airport
+PUP:Po Airport
+XBO:Boulsa Airport
+XBG:Bogande Airport
+DIP:Diapaga Airport
+DOR:Dori Airport
+FNG:Fada N'gourma Airport
+XGG:Gorom-Gorom Airport
+XKA:Kantchari Airport
+TMQ:Tambao Airport
+XPA:Pama Airport
+ARL:Arly Airport
+XSE:Sebba Airport
+TEG:Tenkodogo Airport
+XZA:Zabré Airport
+OUA:Ouagadougou Thomas Sankara International Airport
+BNR:Banfora Airport
+DGU:Dedougou Airport
+XGA:Gaoua Airport
+XNU:Nouna Airport
+BOY:Bobo Dioulasso Airport
+TUQ:Tougan Airport
+XDE:Diebougou Airport
+XAR:Aribinda Airport
+ACC:Kotoka International Airport
+TML:Yakubu Tali International Airport
+WZA:Wa Airport
+DGM:Dandugama Seaplane Base
+KMS:Prempeh I International Airport
+NYI:Sunyani Airport
+TKD:Takoradi Airport
+DHB:Deer Harbor SPB
+DHG:Dalnegorsk Airport
+DHL:Ad-Dali Airport
+ABO:Aboisso Airport
+ABJ:Félix-Houphouët-Boigny International Airport
+OGO:Abengourou Airport
+BXI:Boundiali Airport
+BYK:Bouaké Airport
+BQO:Bouna Airport
+BDK:Soko Airport
+DIM:Dimbokro Airport
+DJO:Daloa Airport
+GGN:Gagnoa Airport
+GGO:Guiglo Airport
+BBV:Nero-Mer Airport
+HGO:Korhogo Airport
+MJC:Man Airport
+KEO:Odienne Airport
+OFI:Ouango Fitini Airport
+SEO:Séguéla Airport
+SPY:San Pedro Airport
+ZSS:Sassandra Airport
+TXU:Tabou Airport
+TOZ:Mahana Airport
+DIW:Mawella Lagoon Seaplane Base
+ASK:Yamoussoukro International Airport
+DLR:Dalnerechensk Airport
+DIO:Diomede Heliport
+DKA:Umaru Musa Yar'adua Airport
+ABV:Nnamdi Azikiwe International Airport
+QUO:Akwa Ibom International Airport
+AKR:Akure Airport
+ABB:Asaba International Airport
+BCU:Sir Abubakar Tafawa Balewa Bauchi State International Airport
+BNI:Benin Airport
+CBQ:Margaret Ekpo International Airport
+ENU:Akanu Ibiam International Airport
+GMO:Gombe Lawanti International Airport
+IBA:Ibadan Airport
+ILR:General Tunde Idiagbon International Airport
+QOW:Sam Mbakwe International Cargo Airport
+JOS:Yakubu Gowon Airport
+KAD:Kaduna International Airport
+KAN:Mallam Aminu Kano International Airport
+MIU:Maiduguri International Airport
+MDI:Makurdi Airport
+LOS:Murtala Muhammed International Airport
+MXJ:Minna Airport
+PHC:Port Harcourt International Airport
+SKO:Sadiq Abubakar III International Airport
+QRW:Warri Airport
+YOL:Yola Airport
+ZAR:Zaria Airport
+DPT:Deputatskiy Airport
+MFQ:Maradi Airport
+NIM:Diori Hamani International Airport
+THZ:Tahoua Airport
+AJY:Mano Dayak International Airport
+RLT:Arlit Airport
+ZND:Zinder Airport
+DSG:Dilasag Airport
+TBJ:Tabarka-Aïn Draham International Airport
+MIR:Monastir Habib Bourguiba International Airport
+NBE:Enfidha - Hammamet International Airport
+TUN:Tunis Carthage International Airport
+GAF:Gafsa Ksar International Airport
+GAE:Gabès Matmata International Airport
+DJE:Djerba Zarzis International Airport
+EBM:El Borma Airport
+SFA:Sfax Thyna International Airport
+TOE:Tozeur Nefta International Airport
+DVD:Andavadoaka Airport
+DWO:Diyawanna Oya Seaplane Base
+LRL:Niamtougou International Airport
+LFW:Lomé–Tokoin International Airport
+EAL:Elenak Airport
+ANR:Antwerp International Airport (Deurne)
+BRU:Brussels Airport
+CRL:Brussels South Charleroi Airport
+GNE:Ghent/Industry Zone Heliport
+KJK:Flanders International Airport Kortrijk-Wevelgem
+LGG:Liège Airport
+EBO:Ebon Airport
+OST:Ostend-Bruges International Airport
+OBL:Oostmalle Airfield
+MZD:Méndez Airport
+EDA:Edna Bay Seaplane Base
+AOC:Leipzig–Altenburg Airport
+HDF:Heringsdorf Airport
+IES:Riesa-Göhlis Airport
+REB:Müritz Airpark
+CSO:Cochstedt Airport
+BBH:Stralsund-Barth Airport
+FNB:Neubrandenburg Trollenhagen Airport
+GTI:Rügen Airport
+KOQ:Köthen Airport
+PEF:Peenemünde Airport
+BER:Berlin Brandenburg Airport
+DRS:Dresden Airport
+ERF:Erfurt-Weimar Airport
+FRA:Frankfurt Main Airport
+FMO:Münster Osnabrück Airport
+HAM:Hamburg Helmut Schmidt Airport
+CGN:Cologne Bonn Airport
+DUS:Düsseldorf Airport
+MUC:Munich Airport
+NUE:Nuremberg Airport
+LEJ:Leipzig/Halle Airport
+SCN:Saarbrücken Airport
+STR:Stuttgart Airport
+HAJ:Hannover Airport
+BRE:Bremen Airport
+HHN:Frankfurt-Hahn Airport
+MHG:Mannheim-City Airport
+EIB:Eisenach-Kindel Airport
+ZOE:Ludwigshafen Accident Hospital Heliport
+SGE:Siegerland Airport
+IZE:Itzehoe Hungriger Wolf Airfield
+XFW:Hamburg-Finkenwerder Airport
+KEL:Kiel-Holtenau Airport
+LBC:Lübeck Blankensee Airport
+EUM:Neumünster Airport
+FMM:Memmingen Allgau Airport
+AAH:Aachen-Merzbrück Airport
+ESS:Essen-Mülheim Airport
+BFE:Bielefeld Airport
+MGL:Mönchengladbach Airport
+PAD:Paderborn Lippstadt Airport
+NRN:Weeze (Niederrhein) Airport
+DTM:Dortmund Airport
+AGB:Augsburg Airport
+QLG:Landshut Airfield
+OBF:Oberpfaffenhofen Airport
+RBM:Straubing Airport
+FDH:Bodensee Airport Friedrichshafen
+BYU:Bayreuth Airport
+URD:Burg Feuerstein Airport
+GHF:Giebelstadt Airport
+HOQ:Hof-Plauen Airport
+BBJ:Bitburg Airport
+ZQW:Zweibrücken Airport
+FKB:Karlsruhe Baden-Baden Airport
+LHA:Lahr Airport
+BWE:Braunschweig-Wolfsburg Airport
+KSF:Kassel Airport
+EME:Emden Airport
+AGE:Wangerooge Airport
+WVN:JadeWeser Airport
+JUI:Juist Airport
+LGO:Langeoog Airport
+BMK:Borkum Airport
+NOD:Norden-Norddeich Airport
+VAC:Varrelbusch Airfield
+NRD:Norderney Airport
+BMR:Baltrum Airport
+HEI:Heide-Büsum Airport
+FLF:Flensburg-Schäferhaus Airport
+HGL:Helgoland-Düne Airport
+QHU:Husum-Schwesing Airport
+PSH:Sankt Peter-Ording Airport
+GWT:Westerland Sylt Airport
+OHR:Wyk auf Föhr Airport
+CHE:Tallinn Linnahall Heliport
+KDL:Kärdla Airport
+URE:Kuressaare Airport
+EPU:Pärnu Airport
+EES:Berenice International Airport / Banas Cape Air Base
+TLL:Lennart Meri Tallinn Airport
+TAY:Tartu Airport
+ENF:Enontekio Airport
+KEV:Halli Airport
+HEN:Hernesaari Heliport
+HEL:Helsinki Vantaa Airport
+HYV:Hyvinkää Airfield
+KTQ:Kitee Airport
+IVL:Ivalo Airport
+JOE:Joensuu Airport
+JYV:Jyväskylä Airport
+KAU:Kauhava Airfield
+KEM:Kemi-Tornio Airport
+KAJ:Kajaani Airport
+KHJ:Kauhajoki Airfield
+KOK:Kokkola-Pietarsaari Airport
+KAO:Kuusamo Airport
+KTT:Kittilä International Airport
+KUO:Kuopio Airport
+LPP:Lappeenranta Airport
+MHQ:Mariehamn Airport
+MIK:Mikkeli Airport
+OUL:Oulu Airport
+POR:Pori Airport
+RVN:Rovaniemi Airport
+SVL:Savonlinna Airport
+SJY:Seinäjoki Airport
+SOT:Sodankyla Airport
+TMP:Tampere-Pirkkala Airport
+TKU:Turku Airport
+UTI:Utti Air Base
+VAA:Vaasa Airport
+VRK:Varkaus Airport
+YLI:Ylivieska Airfield
+AUE:Abu Rudeis Airport
+BFS:Belfast International Airport
+ENK:Enniskillen/St Angelo Airport
+BHD:George Best Belfast City Airport
+LDY:City of Derry Airport
+BHX:Birmingham Airport
+CVT:Coventry Airport
+GLO:Gloucestershire Airport
+ORM:Sywell Aerodrome
+NQT:Nottingham City Airport
+GBA:Cotswold Airport
+MAN:Manchester Airport
+UPV:Upavon Aerodrome
+YEO:RNAS Yeovilton
+CAL:Campbeltown Airport
+EOI:Eday Airport
+FIE:Fair Isle Airport
+WHS:Whalsay Airstrip
+SKL:Broadford Airstrip
+COL:Coll Airport
+NRL:North Ronaldsay Airport
+OBN:Oban Airport
+PPW:Papa Westray Airport
+SOY:Stronsay Airport
+NDY:Sanday Airport
+LWK:Lerwick / Tingwall Airport
+WRY:Westray Airport
+CSA:Colonsay Airstrip
+HAW:Haverfordwest Airport
+CWL:Cardiff International Airport
+SWS:Swansea Airport
+BRS:Bristol Airport
+LPL:Liverpool John Lennon Airport
+LTN:London Luton Airport
+LEQ:Land's End Airport
+ISC:St. Mary's Airport
+BOH:Bournemouth Airport
+SOU:Southampton Airport
+BBP:Bembridge Airport
+NQY:Cornwall Airport Newquay
+QUG:Goodwood Aerodrome
+ACI:Alderney Airport
+GCI:Guernsey Airport
+JER:Jersey Airport
+ESH:Brighton City Airport
+BQH:London Biggin Hill Airport
+LGW:London Gatwick Airport
+LCY:London City Airport
+FAB:Farnborough Airport
+BBS:Blackbushe Airport
+LHR:London Heathrow Airport
+SEN:London Southend Airport
+LYX:Lydd London Ashford Airport
+CAX:Carlisle Lake District Airport
+BLK:Blackpool Airport
+HUY:Humberside Airport
+BWF:Barrow Walney Island Airport
+LBA:Leeds Bradford Airport
+WRT:Warton Aerodrome
+CEG:Hawarden Airport
+IOM:Isle of Man Airport
+NCL:Newcastle International Airport
+MME:Teesside International Airport
+EMA:East Midlands Airport
+VLY:Anglesey Airport
+KOI:Kirkwall Airport
+LSI:Sumburgh Airport
+WIC:Wick John O'Groats Airport
+ABZ:Aberdeen International Airport
+INV:Inverness Airport
+GLA:Glasgow Airport
+EDI:Edinburgh Airport
+ILY:Islay Airport
+PIK:Glasgow Prestwick Airport
+BEB:Benbecula Airport
+DND:Dundee Airport
+SYY:Stornoway Airport
+BRR:Barra Airport
+PSL:Perth/Scone Airport
+TRE:Tiree Airport
+ADX:Leuchars Station Airfield
+LMO:RAF Lossiemouth
+CBG:Cambridge City Airport
+NWI:Norwich Airport
+STN:London Stansted Airport
+HYC:Wycombe Air Park
+EXT:Exeter International Airport
+OXF:London Oxford Airport
+RCS:Rochester Airport
+BEX:RAF Benson
+LKZ:RAF Lakenheath
+MHZ:RAF Mildenhall
+FFD:RAF Fairford
+BZZ:RAF Brize Norton
+ODH:RAF Odiham
+NHT:RAF Northolt
+QCY:RAF Coningsby
+BEQ:RAF Honington
+WTN:RAF Waddington
+KNF:RAF Marham
+MPN:Mount Pleasant Airport / RAF Mount Pleasant
+AMS:Amsterdam Airport Schiphol
+MST:Maastricht Aachen Airport
+EIN:Eindhoven Airport
+GRQ:Groningen Airport Eelde
+GLZ:Gilze Rijen Air Base
+DHR:De Kooy Airfield / Den Helder Naval Air Station
+LEY:Lelystad Airport
+LWR:Leeuwarden Air Base
+RTM:Rotterdam The Hague Airport
+ENS:Twente Airport
+UDE:Volkel Air Base
+WOE:Woensdrecht Air Base
+BYT:Bantry Aerodrome
+BLY:Belmullet Aerodrome
+NNR:Connemara Regional Airport
+ORK:Cork International Airport
+CFN:Donegal Airport
+DUB:Dublin Airport
+IOR:Inishmore Aerodrome
+INQ:Inisheer Aerodrome
+KKY:Kilkenny Airport
+NOC:Ireland West Airport Knock
+KIR:Kerry Airport
+IIA:Inishmaan Aerodrome
+SNN:Shannon Airport
+SXL:Sligo Airport
+WAT:Waterford Airport
+EJN:Ejin Banner Taolai Airport
+EJT:Enejit Airport
+AAR:Aarhus Airport
+BLL:Billund Airport
+CPH:Copenhagen Kastrup Airport
+EBJ:Esbjerg Airport
+KRP:Midtjyllands Airport / Air Base Karup
+BYR:Læsø Airport
+MRW:Lolland Falster Maribo Airport
+ODE:Odense Hans Christian Andersen Airport
+RKE:Copenhagen Roskilde Airport
+RNN:Bornholm Airport
+SGD:Sønderborg Airport
+CNL:Sindal Airport
+SKS:Skrydstrup Air Base
+SQW:Skive Airport
+TED:Thisted Airport
+FAE:Vágar Airport
+STA:Stauning Vestjylland  Airport
+AAL:Aalborg Airport
+LUX:Luxembourg-Findel International Airport
+EMR:El Mirador Heliport
+AES:Ålesund Airport
+ANX:Andøya Airport, Andenes
+ALF:Alta Airport
+FDE:Førde Airport, Bringeland
+BNN:Brønnøysund Airport, Brønnøy
+BOO:Bodø Airport
+BGO:Bergen Airport, Flesland
+BJF:Båtsfjord Airport
+BVG:Berlevåg Airport
+KRS:Kristiansand Airport
+BDU:Bardufoss Airport
+EVE:Harstad/Narvik Airport
+FRO:Florø Airport
+OSL:Oslo-Gardermoen International Airport
+HMR:Hamar Lufthavn, Stavsberg
+HAU:Haugesund Airport, Karmøy
+HFT:Hammerfest Airport
+HAA:Hasvik Airport
+HVG:Honningsvåg Airport, Valan
+KSU:Kristiansund Airport, Kvernberget
+GLL:Gol Airport
+KKN:Kirkenes Airport, Høybuktmoen
+LKN:Leknes Airport
+MEH:Mehamn Airport
+MOL:Molde Airport, Årø
+MJF:Mosjøen Airport, Kjærstad
+LKL:Lakselv Airport, Banak
+OSY:Namsos Airport
+NTB:Notodden Airport
+OLA:Ørland Airport
+HOV:Ørsta-Volda Airport, Hovden
+MQN:Mo i Rana Airport, Røssvoll
+RVK:Rørvik Airport, Ryum
+RRS:Røros Airport
+RET:Røst Airport
+LYR:Svalbard Airport, Longyear
+SDN:Sandane Airport, Anda
+SOG:Sogndal Airport, Haukåsen
+SVJ:Svolvær Airport, Helle
+SKN:Stokmarknes Airport, Skagen
+SRP:Stord Airport, Sørstokken
+SOJ:Sørkjosen Airport
+VAW:Vardø Airport, Svartnes
+SSJ:Sandnessjøen Airport, Stokka
+TOS:Tromsø Airport
+TRF:Sandefjord Airport, Torp
+TRD:Trondheim Airport, Værnes
+VDS:Vadsø Airport
+VRY:Værøy Heliport
+SVG:Stavanger Airport, Sola
+BZG:Ignacy Jan Paderewski Bydgoszcz Airport
+GDN:Gdańsk Lech Wałęsa Airport
+KRK:Kraków John Paul II International Airport
+KTW:Katowice Wojciech Korfanty International Airport
+LUZ:Lublin Airport
+LCJ:Łódź Władysław Reymont Airport
+WMI:Warsaw Modlin Airport
+POZ:Poznań-Ławica Airport
+RDO:Warsaw Radom Airport
+RZE:Rzeszów-Jasionka Airport
+SZZ:Solidarity Szczecin–Goleniów Airport
+SZY:Olsztyn-Mazury Airport
+WAW:Warsaw Chopin Airport
+WRO:Copernicus Wrocław Airport
+IEG:Zielona Góra-Babimost Airport
+ERT:Erdenet Airport
+RNB:Ronneby Airport
+GOT:Göteborg Landvetter Airport
+JKG:Jönköping Airport
+LDK:Lidköping-Hovby Airport
+GSE:Säve Airport
+KVB:Skövde Airport
+THN:Trollhättan-Vänersborg Airport
+KSK:Karlskoga Airport
+MXX:Mora Airport
+NYO:Stockholm Skavsta Airport
+SCR:Scandinavian Mountains Airport
+KID:Kristianstad Airport
+OSK:Oskarshamn Airport
+KLR:Kalmar Airport
+MMX:Malmö Sturup Airport
+HAD:Halmstad Airport
+VXO:Växjö Kronoberg Airport
+EVG:Sveg Airport
+GEV:Gällivare Airport
+KRF:Kramfors-Sollefteå Höga Kusten Airport
+LYC:Lycksele Airport
+SDL:Sundsvall-Härnösand Airport
+OER:Örnsköldsvik Airport
+KRN:Kiruna Airport
+SFT:Skellefteå Airport
+UME:Umeå Airport
+VHM:Vilhelmina South Lapland Airport
+AJR:Arvidsjaur Airport
+SOO:Söderhamn Airport
+OSD:Åre Östersund Airport
+ORB:Örebro Airport
+HFS:Hagfors Airport
+KSD:Karlstad Airport
+VST:Stockholm Västerås Airport
+LLA:Luleå Airport
+ARN:Stockholm-Arlanda Airport
+BMA:Stockholm-Bromma Airport
+BLE:Dala Airport
+HLF:Hultsfred Airport
+GVX:Gävle Sandviken Airport
+LPI:Linköping City Airport
+NRK:Norrköping Airport
+TYF:Torsby Airport
+EKT:Eskilstuna Airport
+VBY:Visby Airport
+VVK:Västervik Airport
+AGH:Ängelholm-Helsingborg Airport
+SQO:Storuman Airport
+IDB:Idre Airport
+PJA:Pajala Airport
+HMV:Hemavan Airport
+GLC:Geladi Airport
+SHC:Shire Inda Selassie Airport
+SPM:Spangdahlem Air Base
+RMS:Ramstein Air Base
+FRZ:Fritzlar Army Airfield
+ILH:Illesheim Army Heliport
+KZG:Kitzingen Airfield
+FCN:Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase
+GKE:Geilenkirchen Air Base
+RLG:Rostock-Laage Airport
+WBG:Schleswig Air Base
+WIE:Wiesbaden Army Airfield
+IGS:Ingolstadt Manching Airport
+LPX:Liepāja International Airport
+RIX:Riga International Airport
+VNT:Ventspils International Airport
+EXI:Excursion Inlet Seaplane Base
+KUN:Kaunas International Airport
+PLQ:Palanga International Airport
+PNV:Panevėžys Air Base
+SQQ:Šiauliai International Airport
+VNO:Vilnius International Airport
+RGR:Ranger Municipal Airport
+ALJ:Alexander Bay Airport
+AGZ:Aggeneys Airport
+ADY:Alldays Airport
+BIY:Bisho Airport
+BFN:Bram Fischer International Airport
+UTE:Bultfontein Airport
+ASS:Arathusa Safari Lodge Airport
+CDO:Cradock Airport
+CPT:Cape Town International Airport
+DUK:Mubatuba Airport
+PZL:Zulu Inyala Airport
+ELS:King Phalo Airport
+EMG:Empangeni Airport
+ELL:Ellisras Matimba Airport
+FCB:Ficksburg Sentraoes Airport
+GCJ:Grand Central Airport
+GRJ:George Airport
+GIY:Giyani Airport
+QRA:Rand Airport
+HLW:Hluhluwe Airport
+HRS:Harrismith Airport
+HDS:Eastgate Airport / Air Force Base Hoedspruit
+KXE:P C Pelser Airport
+KIM:Kimberley Airport
+MQP:Kruger Mpumalanga International Airport
+KOF:Komatipoort Airport
+KMH:Johan Pienaar Airport
+KLZ:Kleinsee Airport
+HLA:Lanseria International Airport
+LMR:Lime Acres Finsch Mine Airport
+LDZ:Londolozi Airport
+DUR:King Shaka International Airport
+LCD:Louis Trichardt Airport
+SDB:Langebaanweg Airport
+LAY:Ladysmith Airport
+AAM:Malamala Airport
+MGH:Margate Airport
+MEZ:Musina(Messina) Airport
+MBD:Mmabatho International Airport
+LLE:Malelane Airport
+MZY:Mossel Bay Airport
+MZQ:Mkuze Airport
+NCS:Newcastle Airport
+NGL:Ngala Airport
+NLP:Nelspruit Airport
+OVG:Overberg Airport
+OUH:Oudtshoorn Airport
+JNB:O.R. Tambo International Airport
+AFD:Port Alfred Airport
+PLZ:Chief Dawid Stuurman International Airport
+PBZ:Plettenberg Bay Airport
+PHW:Hendrik Van Eck Airport
+JOH:Port St Johns Airport
+PRK:Prieska Airport
+PZB:Pietermaritzburg Airport
+NTY:Pilanesberg International Airport
+PTG:Polokwane International Airport
+PCF:Potchefstroom Airport
+UTW:Queenstown Airport
+RCB:Richards Bay Airport
+RVO:Reivilo Airport
+ROD:Robertson Airport
+SBU:Springbok Airport
+ZEC:Secunda Airport
+GSS:Sabi Sabi Airport
+SIS:Sishen Airport
+SZK:Skukuza Airport
+THY:Thohoyandou Airport
+TCU:Thaba Nchu Tar Airport
+LTA:Tzaneen Airport
+ULD:Prince Mangosuthu Buthelezi Airport
+UTN:Upington Airport
+ULX:Ulusaba Airport
+UTT:K. D. Matanzima Airport
+VRU:Vryburg Airport
+VIR:Virginia Airport
+VRE:Vredendal Airport
+VYD:Vryheid Airport
+PRY:Wonderboom Airport
+WKF:Waterkloof Air Force Base
+WEL:Welkom Airport
+FRW:Phillip Gaonwe Matante International Airport
+GNZ:Ghanzi Airport
+JWA:Jwaneng Airport
+BBK:Kasane International Airport
+KHW:Khwai River Lodge Airport
+MUB:Maun International Airport
+ORP:Orapa Airport
+GBE:Sir Seretse Khama International Airport
+SXN:Sua Pan Airport
+PKW:Selebi Phikwe Airport
+SVT:Savuti Airport
+SWX:Shakawe Airport
+TLD:Tuli Lodge Airport
+TBY:Tshabong Airport
+BZV:Maya-Maya International Airport
+DJM:Djambala Airport
+KNJ:Kindamba Airport
+LCO:Lague Airport
+MUY:Mouyondzi Airport
+SIB:Sibiti Airport
+NKY:Yokangassi Airport
+ANJ:Zanaga Airport
+MSX:Mossendjo Airport
+BOE:Boundji Airport
+OLL:Oyo Ollombo Airport
+EWO:Ewo Airport
+GMM:Gamboma Airport
+ION:Impfondo Airport
+KEE:Kelle Airport
+MKJ:Makoua Airport
+FTX:Owando Airport
+SOE:Souanke Airport
+BTB:Betou Airport
+OUE:Ouesso Airport
+KMK:Makabana Airport
+DIS:Ngot Nzoungou Airport
+PNR:Antonio Agostinho-Neto International Airport
+MTS:Matsapha International Airport
+SHO:King Mswati III International Airport
+CRF:Carnot Airport
+BGF:Bangui M'Poko International Airport
+BGU:Bangassou Airport
+IRO:Birao Airport
+BBY:Bambari Airport
+NDL:N'Délé Airport
+BOP:Bouar Airport
+BIV:Bria Airport
+BSN:Bossangoa Airport
+BBT:Berbérati Airport
+ODA:Ouadda Airport
+AIG:Yalinga Airport
+IMO:Zemio Airport
+MKI:M'Boki Airport
+BTG:Batangafo Airport
+GDI:Gordil Airport
+BMF:Bakouma Airport
+ODJ:Ouanda Djallé Airport
+RFA:Rafaï Airport
+BCF:Bouca Airport
+BOZ:Bozoum Airport
+NBN:Annobón Airport
+BSG:Bata International Airport
+GEM:President Obiang Nguema International Airport
+SSG:Malabo International Airport
+ASI:RAF Ascension Island
+HLE:Saint Helena International Airport
+MRU:Sir Seewoosagur Ramgoolam International Airport
+RRG:Sir Charles Gaetan Duval Airport
+KVU:Korolevu Seaplane Base
+NKW:Naval Support Facility Diego Garcia
+KBI:Kribi Airport
+TKC:Tiko Airport
+DLA:Douala International Airport
+MMF:Mamfe Airport
+BLC:Bali Airport
+KLE:Kaélé Airport
+OUR:Batouri Airport
+GXX:Yagoua Airport
+MVR:Salak Airport
+FOM:Foumban Nkounja Airport
+NGE:N'Gaoundéré Airport
+BTA:Bertoua Airport
+GOU:Garoua International Airport
+DSC:Dschang Airport
+BFX:Bafoussam Airport
+BPC:Bamenda Airport
+EBW:Ebolowa Airport
+YAO:Yaoundé Ville Airport
+NSI:Yaoundé Nsimalen International Airport
+MMQ:Mbala Airport
+CIP:Chipata Airport
+CGX:Chunga Airstrip
+JEK:Jeki Airport
+CGJ:Kasompe Airport
+KLB:Kalabo Airport
+KMZ:Kaoma Airport
+KAA:Kasama Airport
+ZKB:Kasaba Bay Airport
+LVI:Harry Mwanga Nkumbula International Airport
+LXU:Lukulu Airport
+LUN:Kenneth Kaunda International Airport
+MNS:Mansa Airport
+MFU:Mfuwe International Airport
+MNR:Mongu Airport
+ZGM:Ngoma Airport
+RYL:Royal Zambezi Lodge Airstrip
+NLA:Simon Mwansa Kapwepwe International Airport
+SXG:Senanga Airport
+KIW:Southdowns Airport
+SJQ:Sesheke Airport
+SLI:Solwesi Airport
+FLT:Flat Airport
+BBZ:Zambezi Airport
+ULI:Ulithi Airport
+HAH:Prince Said Ibrahim International Airport
+NWA:Mohéli Bandar Es Eslam Airport
+AJN:Ouani Airport
+DZA:Dzaoudzi Pamandzi International Airport
+RUN:Roland Garros Airport
+ZSE:Saint-Pierre Pierrefonds Airport
+OHB:Ambohibary Airport
+WML:Malaimbandy Airport
+ATJ:Antsirabe Airport
+WAQ:Antsalova Airport
+VVB:Mahanoro Airport
+TNR:Ivato International Airport
+JVA:Ankavandra Airport
+BMD:Belo sur Tsiribihina Airport
+ZVA:Miandrivazo Airport
+MXT:Maintirano Airport
+ILK:Atsinanana Airport
+TVA:Morafenobe Airport
+SMS:Sainte Marie Airport
+TMM:Toamasina Ambalamanasy Airport
+WTA:Tambohorano Airport
+MOQ:Morondava Airport
+WTS:Tsiroanomandidy Airport
+VAT:Vatomandry Airport
+WAM:Ambatondrazaka Airport
+DIE:Arrachart Airport
+WBE:Ankaizina Airport
+WMR:Mananara Nord Airport
+ZWA:Andapa Airport
+AMB:Ambilobe Airport
+WBD:Avaratra Airport
+WPB:Port Bergé Airport
+ANM:Antsirabe Airport
+HVA:Analalava Airport
+MJN:Amborovy Airport
+NOS:Nosy Be-Fascene International Airport
+DWB:Soalala Airport
+WMP:Mampikony Airport
+BPY:Besalampy Airport
+WMN:Maroantsetra Airport
+SVB:Sambava Airport
+TTS:Tsaratanana Airport
+VOH:Vohemar Airport
+WAI:Ambalabe Airport
+WMA:Mandritsara Airport
+IVA:Ampampamena Airport
+WBO:Antsoa Airport
+WMD:Mandabe Airport
+FTU:Tôlanaro Airport
+WFI:Fianarantsoa Airport
+RVA:Farafangana Airport
+IHO:Ihosy Airport
+MJA:Manja Airport
+WVK:Manakara Airport
+OVA:Bekily Airport
+MNJ:Mananjary Airport
+TDV:Samangoky Airport
+MXM:Morombe Airport
+TLE:Toliara Airport
+VND:Vangaindrano Airport
+BKU:Betioky Airport
+AMP:Ampanihy Airport
+WAK:Ankazoabo Airport
+AZZ:Ambriz Airport
+SSY:Mbanza Congo Airport
+BUG:Benguela Airport
+NBJ:Dr. Antonio Agostinho Neto International Airport
+GGC:Lumbala Airport
+CAB:Cabinda Airport
+CFF:Cafunfo Airport
+PGI:Chitato Airport
+KNP:Kapanda Airport
+CBT:Catumbela Airport
+CTI:Cuito Cuanavale Airport
+CXM:Camaxilo Airport
+CAV:Cazombo Airport
+FND:Funadhoo Airport
+DUE:Dundo Airport
+VPE:Ngjiva Pereira Airport
+NOV:Albano Machado Airport
+SVP:Kuito Airport
+LLT:Lobito Airport
+LBZ:Lucapa Airport
+LAD:Quatro de Fevereiro International Airport
+LZM:Luzamba Airport
+MEG:Malanje Airport
+SPP:Menongue Airport
+MSZ:Welwitschia Mirabilis International Airport
+GXG:Negage Airport
+PBN:Porto Amboim Airport
+VHC:Saurimo Airport
+SZA:Soyo Airport
+NDD:Sumbe Airport
+UAL:Luau Airport
+SDD:Lubango Mukanka International Airport
+LUO:Luena Airport
+UGO:Uige Airport
+CEO:Waco Kungo Airport
+XGN:Xangongo Airport
+ARZ:N'zeto Airport
+NZA:Nzagi Airport
+AKE:Akieni Airport
+BGB:Booue Airport
+KDN:Ndende Airport
+FOU:Fougamou Airport
+MBC:M'Bigou Airport
+MGX:Moabi Airport
+KDJ:Ville Airport
+KOU:Koulamoutou Mabimbi Airport
+MJL:Mouilla Ville Airport
+OYE:Oyem Airport
+OKN:Okondja Airport
+LBQ:Lambarene Airport
+MVX:Minvoul Airport
+AWE:Alowe Airport
+BMM:Bitam Airport
+MFF:Moanda Airport
+MKB:Mekambo Airport
+POG:Port Gentil International Airport
+OMB:Omboue Hospital Airport
+IGE:Tchongorove Airport
+MKU:Makokou Airport
+LBV:Libreville Leon M'ba International Airport
+MZC:Mitzic Airport
+MVB:M'Vengue El Hadj Omar Bongo Ondimba International Airport
+LTL:Lastourville Airport
+TCH:Tchibanga Airport
+MYB:Mayumba Airport
+FOY:Foya Airport
+PCP:Principe Airport
+TMS:São Tomé International Airport
+ANO:Angoche Airport
+BEW:Beira International Airport
+FXO:Cuamba Airport
+VPY:Chimoio Airport
+IHC:Inhaca Airport
+IBO:Ibo Airport
+INH:Inhambane Airport
+VXC:Lichinga Airport
+LFB:Lumbo Airport
+MPM:Maputo Airport
+MUD:Mueda Airport
+MZB:Mocímboa da Praia Airport
+MNC:Nacala International Airport
+APL:Nampula Airport
+POL:Pemba Airport
+PDD:Ponta do Ouro Airport
+UEL:Quelimane Airport
+TET:Tete Airport
+VNX:Vilankulo Airport
+VJB:Xai-Xai Chongoene Airport
+JAH:Zi Les Paluds Heliport
+DES:Desroches Airport
+SEZ:Seychelles International Airport
+FSL:Fossil Downs Airport
+PRI:Praslin Island Airport
+BDI:Bird Island Airport
+DEI:Denis Island Airport
+FRK:Frégate Island Airport (UNUSABLE)
+SRH:Sarh Airport
+OGR:Bongor Airport
+AEH:Abeche Airport
+MQQ:Moundou Airport
+LTC:Lai Airport
+ATV:Ati Airport
+NDJ:N'Djamena International Airport
+BKR:Bokoro Airport
+OTC:Bol-Berim Airport
+MVO:Mongo Airport
+AMC:Am Timan Airport
+PLF:Pala Airport
+OUT:Bousso Airport
+AMO:Mao Airport
+FYT:Faya-Largeau Airport
+FUB:Fulleborn Airport
+BZH:Bumi Hills Airport
+BUQ:Joshua Mqabuko Nkomo International Airport
+CHJ:Chipinge Airport
+BFO:Buffalo Range Airport
+VFA:Victoria Falls International Airport
+HRE:Robert Gabriel Mugabe International Airport
+KAB:Kariba Airport
+MJW:Mahenye Airport
+UTA:Mutare Airport
+MVZ:Masvingo International Airport
+GWE:Josiah Tungamirai Air Force Base
+HWN:Hwange National Park Airport
+WKI:Hwange (Town) Airport
+CEH:Chelinda Airfield
+BLZ:Chileka International Airport
+CMK:Club Makokola Airport
+DWA:Dwangwa Airport
+KGJ:Karonga Airport
+KBQ:Kasungu Airport
+LLW:Kamuzu International Airport
+LIX:Likoma Island Airport
+MYZ:Monkey Bay Airport
+LMB:Salima Airport
+ZZU:Mzuzu Airport
+LEF:Lebakeng Airport
+LRB:Leribe Airport
+LES:Lesobeng Airport
+MSG:Matsaile Airport
+MFC:Mafeteng Airport
+MKH:Mokhotlong Airport
+MSU:Moshoeshoe I International Airport
+NKU:Nkaus Airport
+PEL:Pelaneng Airport
+UTG:Quthing Airport
+UNE:Qacha's Nek Airport
+SHK:Sehonghong Airport
+SKQ:Sekakes Airport
+SOK:Semonkong Airport
+SHZ:Seshutes Airport
+THB:Thaba-Tseka Airport
+TKO:Tlokoeng Airport
+AIW:Ai-Ais Airport
+ADI:Arandis Airport
+GOG:Gobabis Airport
+GFY:Grootfontein Airport
+HAL:Halali Airport
+KAS:Karasburg Airport
+MPA:Katima Mulilo Airport
+KMP:Keetmanshoop Airport
+LHU:Lianshulu Lodge Airstrip
+LUD:Luderitz Airport
+MJO:Mount Etjo Airport
+MQG:Midgard Airport
+OKU:Mokuti Lodge Airport
+NNI:Namutoni Airport
+OND:Ondangwa Airport
+OMG:Omega Airport
+OMD:Oranjemund Airport
+OKF:Okaukuejo Airport
+OPW:Opuwa Airport
+OHI:Oshakati Airport
+OTJ:Otjiwarongo Airport
+NDU:Rundu Airport
+RHN:Skorpion Mine Airport
+SWP:Swakopmund Municipal Aerodrome
+SZM:Sesriem Airport
+TCY:Terrace Bay Airport
+TSB:Tsumeb Airport
+WVB:Walvis Bay International Airport
+ERS:Eros Airport
+WDH:Hosea Kutako International Airport
+FIH:Ndjili International Airport
+NLO:Ndolo Airport
+MNB:Muanda Airport
+BOA:Boma Airport
+LZI:Luozi Airport
+MAT:Tshimpi Airport
+NKL:N'Kolo-Fuma Airport
+INO:Inongo Airport
+NIO:Nioki Airport
+FDU:Bandundu Airport
+KRZ:Kiri Airport
+KKW:Kikwit Airport
+IDF:Idiofa Airport
+MSM:Masi Manimba Airport
+MDK:Mbandaka Airport
+BSU:Basankusu Airport
+LIE:Libenge Airport
+BDT:Gbadolite Airport
+GMA:Gemena Airport
+KLI:Kotakoli Airbase
+BMB:Bumba Airport
+LIQ:Lisala Airport
+BNB:Boende Airport
+IKL:Ikela Airport
+FKI:Bangoka International Airport
+YAN:Yangambi Airport
+IRP:Matari Airport
+BUX:Bunia Airport
+BZU:Buta Zega Airport
+BKY:Bukavu Kavumu Airport
+RUE:Rughenda Airfield
+GOM:Goma International Airport
+BNC:Beni Airport
+KND:Kindu Airport
+KLY:Kinkungwa Airport
+PUN:Punia Airport
+FBM:Lubumbashi International Airport
+PWO:Pweto Airport
+KEC:Kasenga Airport
+KWZ:Kolwezi Airport
+MNO:Manono Airport
+BDV:Moba Airport
+FMI:Kalemie Airport
+KBO:Kabalo Airport
+KOO:Kongolo Airport
+KMN:Kamina City Airport
+KAP:Kapanga Airport
+KNM:Kaniama Airport
+KGA:Kananga Airport
+LZA:Luiza Airport
+TSH:Tshikapa Airport
+LJA:Lodja Airport
+LBO:Lusambo Airport
+MEW:Mweka Airport
+BAN:Basongo Airport
+PFR:Ilebo Airport
+MJM:Mbuji Mayi Airport
+KBN:Tunta Airport
+NKA:Nkan Airstrip
+GIM:Miele Mimbale Airport
+GAX:Gamba Airport
+BKO:Modibo Keita International Airport
+GUD:Goundam Airport
+GAQ:Gao International Airport
+KNZ:Kenieba Airport
+KYS:Kayes Dag Dag Airport
+MZI:Mopti Airport
+NRM:Nara Airport
+NIX:Nioro du Sahel Airport
+KSS:Sikasso Airport
+TOM:Tombouktou Airport
+EYL:Yélimané Airport
+QUY:RAF Wyton
+PZE:Penzance Heliport
+FLH:Flotta Isle Airstrip
+FOA:Foula Airfield
+GBM:Garbaharey Airport
+BJL:Banjul International Airport
+FUE:Fuerteventura Airport
+GMZ:La Gomera Airport
+VDE:El Hierro Airport
+SPC:La Palma Airport
+LPA:Gran Canaria Airport
+ACE:César Manrique-Lanzarote Airport
+TFS:Tenerife Sur Airport
+GCV:Gravatai Airport
+TFN:Tenerife Norte-Ciudad de La Laguna Airport
+JCU:Ceuta Heliport
+MLN:Melilla Airport
+OYC:Camopi Airport
+KBS:Bo Airport
+GBK:Gbangbatok Airport
+HGS:Hastings Airport
+KBA:Kabala Airport
+KEN:Kenema Airport
+FNA:Lungi International Airport
+WYE:Yengema Airport
+BQE:Bubaque Airport
+OXB:Osvaldo Vieira International Airport
+GHE:Garachiné Airport
+JJU:Qaqortoq Airport
+QCU:Akunnaaq Heliport
+UCN:Buchanan Airport
+CPA:Cape Palmas Airport
+SNI:Greenville/Sinoe Airport
+MLW:Spriggs Payne Airport
+NIA:Nimba Airport
+ROB:Roberts International Airport
+SAZ:Sasstown Airport
+THC:Tchien Airport
+VOI:Voinjama Airport
+AGA:Al Massira Airport
+TTA:Tan Tan Airport
+OZG:Zagora Airport
+UAR:Bouarfa Airport
+FEZ:Fes Saïss International Airport
+ERH:Moulay Ali Cherif Airport
+MEK:Bassatine Airport
+OUD:Oujda Angads Airport
+SMW:Smara Airport
+GMD:Ben Slimane Airport
+BEM:Beni Mellal Airport
+RBA:Rabat-Salé Airport
+VIL:Dakhla Airport
+ESU:Essaouira-Mogador Airport
+EUN:Laayoune Hassan I International Airport
+CMN:Mohammed V International Airport
+NDR:Nador Al Aaroui International Airport
+RAK:Marrakesh Menara Airport
+NNA:Kenitra Air Base
+OZZ:Ouarzazate International Airport
+AHU:Cherif Al Idrissi Airport
+TTU:Sania Ramel Airport
+TNG:Tangier Ibn Battuta Airport
+GNU:Goodnews Airport
+DSS:Blaise Diagne International Airport
+KDA:Kolda Airport
+ZIG:Ziguinchor Airport
+CSK:Cap Skirring Airport
+KLC:Kaolack Airport
+DKR:Léopold Sédar Senghor International Airport
+MAX:Ouro Sogui Airport
+POD:Podor Airport
+RDT:Richard Toll Airport
+XLS:Saint Louis Airport
+BXE:Bakel Airport
+KGG:Kédougou Airport
+SMY:Simenti Airport
+TUD:Tambacounda Airport
+AEO:Aioun el Atrouss Airport
+OTL:Boutilimit Airport
+THI:Tichitt Airport
+TIY:Tidjikja Airport
+BGH:Abbaye Airport
+KFA:Kiffa Airport
+TMD:Timbedra Airport
+EMN:Néma Airport
+AJJ:Akjoujt Airport
+KED:Kaédi Airport
+MOM:Letfotar Airport
+NKC:Nouakchott–Oumtounsy International Airport
+SEY:Sélibaby Airport
+THT:Tamchakett Airport
+ATR:Atar International Airport
+FGD:Fderik Airport
+NDB:Nouadhibou International Airport
+OUZ:Tazadit Airport
+GRC:Grand Cess Airport
+CIQ:Chiquimula Airport
+DON:Dos Lagunas Airport
+ENJ:El Naranjo Airport
+PCG:Paso Caballos Airport
+UAX:Uaxactun Airport
+CKY:Ahmed Sékou Touré International Airport
+GUE:Guriaso (Keraso) Airport
+FIG:Fria Airport
+FAA:Faranah Airport
+KSI:Kissidougou Airport
+LEK:Tata Airport
+MCA:Macenta Airport
+NZE:Nzérékoré Airport
+BKJ:Boké Baralande Airport
+SBI:Sambailo Airport
+GII:Siguiri Airport
+SID:Amílcar Cabral International Airport
+NTO:Agostinho Neto Airport
+BVC:Aristides Pereira International Airport
+MMO:Maio Airport
+MTI:Mosteiros Airport
+RAI:Nelson Mandela International Airport
+SFL:São Filipe Airport
+SNE:Preguiça Airport
+VXE:Cesaria Evora International Airport
+KNN:Kankan Airport
+BCG:Bemichi Airport
+BTO:Botopasi Airport
+DOE:Djumu-Djomoe Airport
+ADD:Addis Ababa Bole International Airport
+AMH:Arba Minch Airport
+AXU:Axum Airport
+BJR:Bahir Dar Airport
+BEI:Beica Airport
+DSE:Kombolcha Airport
+DEM:Dembidollo Airport
+DBM:Debre Markos Airport
+DIR:Aba Tenna Dejazmach Yilma International Airport
+DBT:Debre Tabor Airport
+FNH:Fincha Airport
+GOB:Robe Airport
+GNN:Ghinnir Airport
+GMB:Gambela Airport
+GDQ:Gondar Airport
+GDE:Gode Airport
+GOR:Gore Airport
+QHR:Harar Meda Airport
+HUE:Humera Airport
+JIJ:Gerad Wilwal International Airport
+BCO:Jinka Airport
+JIM:Jimma Airport
+ABK:Kebri Dahar Airport
+LFO:Kelafo East Airport
+AWA:Hawassa International Airport
+LLI:Lalibela Airport
+MKS:Mekane Selam Airport
+MQX:Mekele Alula Aba Nega Airport
+ETE:Metema Airport
+NDM:Mendi Airport
+MUJ:Mui River Airport
+MTF:Mizan Teferi Airport
+EGL:Negele Airport
+NEJ:Nejjo Airport
+NEK:Nekemte Airport
+PWI:Beles Airport
+SXU:Soddu Airport
+SKR:Shakiso Airport
+HIL:Shilavo Airport
+SZE:Semera Airport
+ASO:Asosa Airport
+TIE:Tippi Airport
+WRA:Warder Airport
+HAZ:Hatzfeldhaven Airport
+BJM:Bujumbura Melchior Ndadaye International Airport
+GID:Gitega Airport
+KRE:Kirundo Airport
+HBT:Hambantota Seaplane Base
+ALU:Alula Airport
+BIB:Baidoa Airport
+CXN:Candala Airport
+BSY:Baardheere Airport
+HCM:Eil Airport
+BSA:Bender Qassim International Airport
+GSR:Gardo Airport
+HGA:Egal International Airport
+BBO:Berbera Airport
+LGX:Lugh Ganane Airport
+KMU:Kismayo Airport
+MGQ:Aden Adde International Airport
+BLW:Beledweyne Airport
+CMO:Hobyo Airport
+GLK:Galcaio Airport
+CMS:Iskushuban Airport
+ERA:Erigavo Airport
+BUO:Burao Airport
+GGR:Garowe Airport
+JIB:Djibouti-Ambouli Airport
+AII:Ali-Sabieh Airport
+MHI:Moucha Airport
+OBC:Obock Airport
+TDJ:Tadjoura Airport
+EMY:El Minya Airport
+RDL:Bardawil International Airport
+SQK:Sidi EL Barrani Airport
+DBB:El Alamein International Airport
+AAC:El Arish International Airport
+ATZ:Asyut International Airport
+HBE:Alexandria International Airport
+ABS:Abu Simbel Airport
+CAI:Cairo International Airport
+CCE:Capital International Airport
+DAK:Dakhla Oasis Airport
+HRG:Hurghada International Airport
+EGH:El Jora Airport
+UVL:El Kharja Airport
+LXR:Luxor International Airport
+RMF:Marsa Alam International Airport
+MUH:Mersa Matruh International Airport
+HEO:Haelogo Airport
+GSQ:El Owainat East International Airport
+PSD:Port Said International Airport
+SKV:Saint Catherine International Airport
+HMB:Sohag International Airport
+SSH:Sharm El Sheikh International Airport
+ASW:Aswan International Airport
+SEW:Siwa Oasis North Airport
+SPX:Sphinx International Airport
+TCP:Taba International Airport
+ELT:At Tur Airport
+HEY:Hanchey Army (Fort Rucker) Heliport
+HGT:Tusi (Hunter Liggett) Army Heliport
+ASM:Asmara International Airport
+MSW:Massawa International Airport
+ASA:Assab International Airport
+TES:Tessenei Airport
+HPV:Princeville Airport
+WKL:Waikoloa Heliport
+JUB:Juba International Airport
+ASV:Amboseli Airport
+HKB:Healy Lake Airport
+EDL:Eldoret International Airport
+EYS:Eliye Springs Airport
+KLK:Kalokol Airport
+GAS:Garissa Airport
+HOA:Hola Airport
+NBO:Jomo Kenyatta International Airport
+KEU:Keekorok Airport
+GGM:Kakamega Airport
+KIS:Kisumu International Airport
+ILU:Kilaguni Airport
+KEY:Kericho Airport
+KTL:Kitale Airport
+LKG:Lokichogio Airport
+LOK:Lodwar Airport
+LAU:Manda Airport
+LOY:Loiyangalani Airport
+NDE:Mandera Airport
+RBT:Marsabit Airport
+JJM:Mulika Lodge Airport
+MYD:Malindi International Airport
+MBA:Moi International Airport
+MRE:Mara Serena Lodge Airstrip
+OYL:Moyale Airport
+NYE:Nyeri Airport
+NUU:Nakuru Lanet Airport
+NYK:Nanyuki Civil Airport
+WIL:Nairobi Wilson Airport
+UAS:Samburu Airport
+UKA:Ukunda Airstrip
+WJR:Wajir Airport
+SRX:Sirt International Airport / Ghardabiya Airbase
+GHT:Ghat Airport
+AKF:Kufra Airport
+BEN:Benina International Airport
+MJI:Mitiga International Airport
+LAQ:Al Abraq International Airport
+SEB:Sabha Airport
+LMQ:Marsa al Brega Airport
+MRA:Misrata International Airport
+NFR:Nafurah 1 Airport
+HUQ:Hon Airport
+LTD:Ghadames Airport
+TOB:Tobruk International Airport
+QUB:Ubari Airport
+ZIS:Alzintan Airport
+WAX:Zuwarah International Airport
+EDQ:Erandique Airport
+HOO:Nhon Co Airfield
+HRC:Sary Su Airport
+GYI:Gisenyi Airport
+BTQ:Butare Airport
+KGL:Kigali International Airport
+RHG:Ruhengeri Airport
+KME:Kamembe Airport
+ATB:Atbara Airport
+EDB:Al Dabbah Airport
+DOG:Dongola Airport
+RSS:Damazin Airport
+ELF:El Fasher Airport
+DNX:Galegu Airport
+EGN:Geneina Airport
+HEG:Heglig Airport
+HSJ:Zhengzhou Shangjie Airport
+KSL:Kassala Airport
+GBU:Khashm El Girba Airport
+KDX:Kadugli Airport
+RBX:Rumbek Airport
+MWE:Merowe Airport
+NUD:En Nahud Airport
+UYL:Nyala Airport
+NHF:New Halfa Airport
+EBD:El-Obeid Airport
+PZU:Port Sudan New International Airport
+KRT:Khartoum International Airport
+MAK:Malakal International Airport
+WHF:Wadi Halfa Airport
+WUU:Wau Airport
+ZLX:Zalingei Airport
+ARK:Arusha Airport
+BKZ:Bukoba Airport
+DAR:Julius Nyerere International Airport
+DOD:Dodoma Airport
+GTC:Chato/Geita Airport
+GTZ:Kirawira B Aerodrome
+MBI:Songwe Airport
+IRI:Iringa Airport
+TKQ:Kigoma Airport
+KIY:Kilwa Airport
+JRO:Kilimanjaro International Airport
+LDI:Lindi Airport
+LKY:Lake Manyara Airport
+MFA:Mafia Airport
+MWN:Mwadui Airport
+XMI:Masasi Airport
+NPY:Mpanda Airport
+QSI:Moshi Airport
+MYW:Mtwara Airport
+MUZ:Musoma Airport
+MWZ:Mwanza International Airport
+NCH:Nachingwea Airport
+JOM:Njombe Airport
+PMA:Pemba Airport
+SEU:Seronera Airport
+SGX:Songea Airport
+SUT:Sumbawanga Airport
+SHY:Shinyanga Airport
+TBO:Tabora Airport
+TGT:Tanga Airport
+ZNZ:Abeid Amani Karume International Airport
+RUA:Arua Airport
+EBB:Entebbe International Airport
+ULU:Gulu Airport
+JIN:Jinja Airport
+KJJ:Kajjansi Airfield
+KSE:Kasese Airport
+MBQ:Mbarara Airport
+KCU:Masindi Airport
+PAF:Pakuba Airport
+SRT:Soroti Airport
+TRY:Tororo Airport
+HWI:Hawk Inlet Seaplane Base
+HYL:Hollis Clark Bay Seaplane Base
+HZU:Chengdu Huaizhou Airport
+IBI:Iboki Airport
+IBL:Indigo Bay Lodge Airport
+ICO:Sicogon Airstrip
+PPJ:Pulau Panjang Airport
+GXM:Kuala Kurun Airport
+FSH:Syekh Hamzah Fansyuri Airport
+ENG:Enggano Airport
+WDB:Weda Bay Airport
+GYO:Blangkejeren Airport
+DHX:Dhoho International Airport
+SKJ:Singkawang Airport
+RUF:Yuruf Airport [UNUSABLE]
+AAS:Apalapsili Airport
+AGD:Anggi Airport
+AKQ:Astra Ksetra Airport
+ELR:Elelim Airport
+EWE:Ewer Asmat Airport
+GAV:Gag Island Airport
+IUL:Ilu Airport
+KOD:Kotabangun Airport
+KRC:Departi Parbo Airport
+LLN:Kelila Airport
+MSI:Masalembo Airport
+NAF:Banaina Airport
+OBD:Obano Airport
+RKI:Mentawai Airport
+TMY:Tiom Airport
+UGU:Bilorai Airport
+IMA:Iamalele Airport
+IMG:Inhaminga Airport
+PYG:Pakyong Airport
+AYJ:Maharshi Valmiki International Airport
+SDW:Sindhudurg Airport
+NMI:Navi Mumbai International Airport
+RQY:Rashtrakavi Kuvempu Airport
+HGI:Itanagar Donyi Polo Hollongi Airport
+UKE:Utkela Airport
+DXN:Noida International Airport
+AHA:Maa Mahamaya Airport
+JGB:Jagdalpur Airport
+RJI:Rajouri Airport
+INE:Chinde Airport
+IOK:Iokea Airport
+IOP:Ioma Airport
+IRU:Iranamadu Seaplane Base
+TQR:San Domino Island Heliport
+ITK:Itokama Airport
+IVI:Viveros Island Airport
+JIO:Jos Orno Imsula Airport
+JLA:Quartz Creek Airport
+JMB:Jamba Airport
+JPN:Pentagon Army Heliport
+JRA:West 30th Street Heliport
+JRB:Downtown Manhattan Heliport
+JUH:Chizhou Jiuhuashan Airport
+AMK:Animas Air Park
+BDX:Broadus Airport
+EUE:Eureka Airport
+KPT:Jackpot Airport/Hayden Field
+RLA:Rolla Downtown Airport
+FID:Elizabeth Field
+HUD:Humboldt Municipal Airport
+TWD:Jefferson County International Airport
+MVM:Kayenta Airport
+HCC:Columbia County Airport
+AHD:Ardmore Downtown Executive Airport
+GCW:Grand Canyon West Airport
+CKE:Lampson Field
+ROF:Montague-Yreka Rohrer Field
+CNE:Fremont County Airport
+RSX:Rouses Point Seaplane Base
+COP:Cooperstown-Westville Airport
+CIL:Council Airport
+NWH:Parlin Field
+IRB:Iraan Municipal Airport
+ODM:Garrett County Airport
+GNF:Gansner Field
+CHZ:Chiloquin State Airport
+LTW:St. Mary's County Regional Airport
+USC:Union County, Troy Shelton Field
+AHF:Arapahoe Municipal Airport
+PCT:Princeton Airport
+CTO:Calverton Executive Airpark
+NRI:Grand Lake Regional Airport
+GTP:Grants Pass Airport
+NLE:Jerry Tyler Memorial Airport
+GCD:Grand Coulee Dam Airport
+VLE:Valle Airport
+FPY:Perry-Foley Airport
+NTJ:Manti-Ephraim Airport
+SBO:Salina Gunnison Airport
+JVI:Central Jersey Regional Airport
+UCE:Eunice Airport
+GOL:Gold Beach Municipal Airport
+KKT:Kentland Municipal Airport
+PRW:Prentice Airport
+EGP:Maverick County Memorial International Airport
+BLD:Boulder City Municipal Airport
+MFH:Mesquite Airport
+ECA:Iosco County Airport
+FMU:Florence Municipal Airport
+OTS:Anacortes Airport
+ROL:Roosevelt Municipal Airport
+CTK:Canton Municipal Airport
+WPO:North Fork Valley Airport
+ATE:Antlers Municipal Airport
+ASQ:Austin Airport
+AAF:Apalachicola Regional Airport
+ABE:Lehigh Valley International Airport
+ABI:Abilene Regional Airport
+ABQ:Albuquerque International Sunport
+ABR:Aberdeen Regional Airport
+ABY:Southwest Georgia Regional Airport
+ACB:Antrim County Airport
+ACK:Nantucket Memorial Airport
+ACT:Waco Regional Airport
+ACV:California Redwood Coast-Humboldt County Airport
+ACY:Atlantic City International Airport
+ADG:Lenawee County Airport
+ADT:Ada Regional Airport
+ADM:Ardmore Municipal Airport
+ADS:Addison Airport
+ADW:Joint Base Andrews
+KAE:Kake Seaplane Base
+AEL:Albert Lea Municipal Airport
+AEX:Alexandria International Airport
+KAF:Karato Airport
+AFF:USAF Academy Airfield
+WSG:Washington County Airport
+AFN:Jaffrey Airfield Silver Ranch Airport
+AFO:Afton Municipal Airport
+AFW:Perot Field/Fort Worth Alliance Airport
+AGC:Allegheny County Airport
+AGO:Magnolia Municipal Airport / Ralph C Weiser Field
+AGS:Augusta Regional At Bush Field
+AHC:Amedee Army Air Field
+AHH:Amery Municipal Airport
+AHN:Athens Ben Epps Airport
+AIA:Alliance Municipal Airport
+AID:Anderson Municipal Darlington Field
+AIK:Aiken Regional Airport
+AIO:Atlantic Municipal Airport
+AIV:George Downer Airport
+AIZ:Lee C Fine Memorial Airport
+KAK:Kar Airport
+AKO:Colorado Plains Regional Airport
+AKC:Akron Fulton International Airport
+ALB:Albany International Airport
+ALI:Alice International Airport
+ALM:Alamogordo White Sands Regional Airport
+ALN:St Louis Regional Airport
+ALO:Waterloo Regional Airport
+ALS:San Luis Valley Regional Airport/Bergman Field
+ALW:Walla Walla Regional Airport
+ALX:Thomas C Russell Field
+AMA:Rick Husband Amarillo International Airport
+AMN:Gratiot Community Airport
+AMW:Ames Municipal Airport
+ANB:Anniston Regional Airport
+AND:Anderson Regional Airport
+SLT:Salida Airport - Harriet Alexander Field
+ANP:Lee Airport
+ANQ:Tri State Steuben County Airport
+ANW:Ainsworth Regional Airport
+ANY:Anthony Municipal Airport
+AOH:Lima Allen County Airport
+AOO:Altoona Blair County Airport
+APA:Centennial Airport
+APC:Napa County Airport
+APF:Naples Municipal Airport
+APG:Phillips Army Air Field
+APH:Mary Walker LZ Airport
+APN:Alpena County Regional Airport
+APT:Marion County Airport - Brown Field
+APV:Apple Valley Airport
+ARA:Acadiana Regional Airport
+ARB:Ann Arbor Municipal Airport
+ARG:Walnut Ridge Regional Airport
+WHT:Wharton Regional Airport
+AUZ:Aurora Municipal Airport
+ART:Watertown International Airport
+ARV:Lakeland Airport Noble F Lee Memorial Field
+BFT:Beaufort Executive Airport
+ASE:Aspen-Pitkin County Airport (Sardy Field)
+SPZ:Springdale Municipal Airport
+ASH:Nashua Airport / Boire Field
+ASL:Harrison County Airport
+ASN:Talladega Municipal Airport
+AST:Astoria Regional Airport
+ASX:John F Kennedy Memorial Airport
+ASY:Ashley Municipal Airport
+ATL:Hartsfield Jackson Atlanta International Airport
+ATS:Artesia Municipal Airport
+ATW:Appleton International Airport
+ATY:Watertown Regional Airport
+AUG:Augusta State Airport
+AUM:Austin Municipal Airport
+AUN:Auburn Municipal Airport
+AUO:Auburn University Regional Airport
+AUS:Austin Bergstrom International Airport
+AUW:Wausau Downtown Airport
+AVL:Asheville Regional Airport
+AVO:Avon Park Executive Airport
+AVP:Wilkes-Barre/Scranton International Airport
+AVW:Marana Regional Airport
+AVX:Catalina Airport
+AWM:West Memphis Municipal Airport
+AXG:Algona Municipal Airport
+AXN:Chandler Field
+AXS:Altus Quartz Mountain Regional Airport
+AXV:Neil Armstrong Airport
+AXX:Angel Fire Airport
+AYS:Waycross Ware County Airport
+TUH:Arnold Air Force Base
+AZO:Kalamazoo/Battle Creek International Airport
+BAB:Beale Air Force Base
+BAD:Barksdale Air Force Base
+BAF:Westfield-Barnes Regional Airport
+CLU:Columbus Municipal Airport
+BAM:Battle Mountain Airport
+BBB:Benson Municipal Airport
+BBD:Curtis Field
+BKG:Branson Airport
+BTN:Marlboro County Jetport - H E Avent Field Airport
+BBW:Broken Bow Municipal Airport
+BCB:Virginia Tech Montgomery Executive Airport
+BCE:Bryce Canyon Airport
+BCT:Boca Raton Airport
+BDE:Baudette International Airport
+BDG:Blanding Municipal Airport
+ILL:Willmar Municipal Airport John L Rice Field (2006)
+BDL:Bradley International Airport
+BDR:Igor I Sikorsky Memorial Airport
+WBU:Boulder Municipal Airport
+KBE:Bell Island Hot Springs Seaplane Base
+BEC:Beech Factory Airport
+BED:Laurence G Hanscom Field
+BEH:Southwest Michigan Regional Airport
+BFD:Bradford Regional Airport
+BFF:Western Neb. Rgnl/William B. Heilig Airport
+BFI:King County International Airport - Boeing Field
+BFL:Meadows Field
+BFM:Mobile Downtown Airport
+BFR:Virgil I Grissom Municipal Airport
+BGD:Hutchinson County Airport
+BGE:Decatur County Industrial Air Park
+BGM:Greater Binghamton/Edwin A Link field
+BGR:Bangor International Airport
+KBH:Kahama Airstrip
+BHB:Hancock County-Bar Harbor Airport
+BHM:Birmingham-Shuttlesworth International Airport
+BID:Block Island State Airport
+BIE:Beatrice Municipal Airport
+BIF:Biggs Army Air Field (Fort Bliss)
+BIH:Eastern Sierra Regional Airport
+BIL:Billings Logan International Airport
+BIS:Bismarck Municipal Airport
+BIX:Keesler Air Force Base
+BJC:Rocky Mountain Metropolitan Airport
+BJI:Bemidji Regional Airport
+BJJ:Wayne County Airport
+BKD:Stephens County Airport
+BKE:Baker City Municipal Airport
+BFK:Buckley Space Force Base
+BKL:Burke Lakefront Airport
+BKT:Allen C Perkinson Blackstone Army Air Field
+BKW:Raleigh County Memorial Airport
+BKX:Brookings Regional Airport
+BLF:Mercer County Airport
+BLH:Blythe Airport
+BLI:Bellingham International Airport
+BLM:Monmouth Executive Airport
+BLU:Blue Canyon Nyack Airport
+BLV:Scott AFB/Midamerica Airport
+BMC:Brigham City Regional Airport
+BMG:Monroe County Airport
+BMI:Central Illinois Regional Airport at Bloomington-Normal
+BML:Berlin Regional Airport
+BMT:Beaumont Municipal Airport
+BNA:Nashville International Airport
+BNG:Banning Municipal Airport
+BNL:Barnwell Regional Airport
+BNO:Burns Municipal Airport
+BNW:Boone Municipal Airport
+BOI:Boise Air Terminal/Gowen Field
+BOK:Brookings Airport
+BOS:Boston Logan International Airport
+BOW:Bartow Executive Airport
+HCA:Big Spring Mc Mahon-Wrinkle Airport
+BPI:Miley Memorial Field
+WMH:Ozark Regional Airport
+BPT:Jack Brooks Regional Airport
+BQK:Brunswick Golden Isles Airport
+BRD:Brainerd Lakes Regional Airport
+BRL:Southeast Iowa Regional Airport
+BRO:Brownsville South Padre Island International Airport
+BRY:Samuels Field
+KBT:Kaben Airport
+BTF:Skypark Airport
+BTL:Battle Creek Executive Airport at Kellogg Field
+BTM:Bert Mooney Airport
+TTO:Britton Municipal Airport
+BTP:Pittsburgh/Butler Regional Airport
+BTR:Baton Rouge Metropolitan Airport
+BTV:Patrick Leahy Burlington International Airport
+BTY:Beatty Airport
+BUB:Cram Field
+BUF:Buffalo Niagara International Airport
+BUM:Butler Memorial Airport
+BUR:Hollywood Burbank/Bob Hope Airport
+BFP:Beaver County Airport
+BVO:Bartlesville Municipal Airport
+MVW:Skagit Regional Airport
+BVX:Batesville Regional Airport
+BVY:Beverly Regional Airport
+BWC:Brawley Municipal Airport
+BWD:Brownwood Regional Airport
+BWG:Bowling Green Warren County Regional Airport
+BWI:Baltimore/Washington International Thurgood Marshall Airport
+WAH:Harry Stern Airport
+BWM:Bowman Regional Airport
+BXA:George R Carr Memorial Air Field
+BXK:Buckeye Municipal Airport
+NHZ:Brunswick Executive Airport
+BYG:Johnson County Airport
+BYH:Arkansas International Airport
+BYI:Burley Municipal Airport
+BYS:Bicycle Lake Army Air Field
+BBC:Bay City Regional Airport
+BZN:Bozeman Yellowstone International Airport
+XES:Grand Geneva Resort Airport
+PLY:Plymouth Municipal Airport
+CLG:New Coalinga Municipal Airport
+CAD:Wexford County Airport
+CAE:Columbia Metropolitan Airport
+CIG:Craig Moffat Airport
+CAK:Akron Canton Regional Airport
+CAO:Clayton Municipal Airpark
+CAR:Caribou Municipal Airport
+CBE:Greater Cumberland Regional Airport
+CBF:Council Bluffs Municipal Airport
+CBK:Shalz Field
+CBM:Columbus Air Force Base
+KCC:Coffman Cove Seaplane Base
+CCB:Upland-Cable Airport
+CCR:Buchanan Field
+CCY:Northeast Iowa Regional Airport
+LLX:Caledonia County Airport
+CDC:Cedar City Regional Airport
+CDH:Harrell Field
+CDK:George T Lewis Airport
+CDN:Woodward Field
+CDR:Chadron Municipal Airport
+CDS:Childress Municipal Airport
+CDW:Essex County Airport
+CEA:Cessna Aircraft Field
+CEC:Jack Mc Namara Field Airport
+CEF:Westover Metropolitan Airport / Westover Air Reserve Base
+CEU:Oconee County Regional Airport
+CEV:Mettel Field
+CEW:Bob Sikes Airport
+CEY:Murray-Calloway County Airport Kyle-Oakley Field
+CEZ:Cortez Municipal Airport
+CFD:Coulter Field
+TZC:Tuscola Area Airport
+CFT:Greenlee County Airport
+CFV:Coffeyville Municipal Airport
+CGE:Cambridge Dorchester Airport
+CGF:Cuyahoga County Airport
+CGI:Cape Girardeau Regional Airport
+CGS:College Park Airport
+CGZ:Casa Grande Municipal Airport
+CHA:Chattanooga Metropolitan Airport (Lovell Field)
+CHK:Chickasha Municipal Airport
+CHO:Charlottesville Albemarle Airport
+CHS:Charleston International Airport
+CIC:Chico Regional Airport
+CID:The Eastern Iowa Airport
+CIN:Arthur N Neu Airport
+CIR:Cairo Regional Airport
+CIU:Chippewa County International Airport
+CKA:Kegelman AF Aux Field
+CKB:North Central West Virginia Airport
+GRM:Grand Marais Cook County Airport
+CKM:Fletcher Field
+CKN:Crookston Municipal Kirkwood Field
+CKV:Clarksville–Montgomery County Regional Airport
+KCL:Chignik Lagoon Airport
+CLE:Cleveland Hopkins International Airport
+CLI:Clintonville Municipal Airport
+CLK:Clinton Regional Airport
+CLL:Easterwood Field
+CLM:William R Fairchild International Airport
+CLR:Cliff Hatfield Memorial Airport
+CLS:Chehalis Centralia Airport
+CLT:Charlotte Douglas International Airport
+CLW:Clearwater Air Park
+CMH:John Glenn Columbus International Airport
+CMI:University of Illinois Willard Airport
+CMX:Houghton County Memorial Airport
+CMY:Sparta Fort McCoy Airport
+KCN:Chernofski Harbor Seaplane Base
+CNH:Claremont Municipal Airport
+CNK:Blosser Municipal Airport
+CNM:Cavern City Air Terminal
+CNO:Chino Airport
+CNU:Chanute Martin Johnson Airport
+CNW:TSTC Waco Airport
+CNY:Canyonlands Regional Airport
+COD:Yellowstone Regional Airport
+COE:Coeur D'Alene Airport - Pappy Boyington Field
+COF:Patrick Space Force Base
+COI:Merritt Island Airport
+COM:Coleman Municipal Airport
+CON:Concord Municipal Airport
+COS:City of Colorado Springs Municipal Airport
+COT:Cotulla-La Salle County Airport
+COU:Columbia Regional Airport
+CPM:Compton Woodley Airport
+CPR:Casper-Natrona County International Airport
+CPS:St Louis Downtown Airport
+HCW:Cheraw Municipal Airport/Lynch Bellinger Field
+KCR:Colorado Creek Airport
+CRE:Grand Strand Airport
+CRG:Jacksonville Executive at Craig Airport
+CRP:Corpus Christi International Airport
+CLD:McClellan-Palomar Airport
+CRS:C David Campbell Field Corsicana Municipal Airport
+CRT:Z M Jack Stell Field
+CRW:Yeager Airport
+CRX:Roscoe Turner Airport
+CSG:Columbus Airport
+CSM:Clinton Sherman Airport
+CSQ:Creston Municipal Airport
+CSV:Crossville Memorial Airport Whitson Field
+CTB:Cut Bank International Airport
+CTY:Cross City Airport
+CTZ:Sampson County Airport
+CUB:Jim Hamilton L.B. Owens Airport
+CUH:Cushing Municipal Airport
+CVG:Cincinnati Northern Kentucky International Airport
+HLI:Hollister Municipal Airport
+CKK:Sharp County Regional Airport
+CVN:Clovis Municipal Airport
+CVO:Corvallis Municipal Airport
+CVS:Cannon Air Force Base
+CWA:Central Wisconsin Airport
+KIP:Kickapoo Downtown Airport
+CWF:Chennault International Airport
+CWI:Clinton Municipal Airport
+CXL:Calexico International Airport
+CXO:Conroe-North Houston Regional Airport
+CSN:Carson Airport
+HAR:Capital City Airport
+CYS:Cheyenne Regional Jerry Olson Field
+CZK:Cascade Locks State Airport
+CZT:Dimmit County Airport
+VEX:Tioga Municipal Airport
+DAA:Davison Army Air Field
+DAB:Daytona Beach International Airport
+DAG:Barstow Daggett Airport
+DAL:Dallas Love Field
+DAN:Danville Regional Airport
+DAY:James M. Cox Dayton International Airport
+DBN:W H 'Bud' Barron Airport
+DBQ:Dubuque Regional Airport
+DCA:Ronald Reagan Washington National Airport
+DCU:Pryor Field Regional Airport
+DDC:Dodge City Regional Airport
+DEC:Decatur Airport
+DEH:Decorah Municipal Airport
+DEN:Denver International Airport
+DET:Coleman A. Young Municipal Airport
+DFI:Defiance Memorial Airport
+DFW:Dallas Fort Worth International Airport
+DGL:Douglas Municipal Airport
+DGW:Converse County Airport
+DHN:Dothan Regional Airport
+DHT:Dalhart Municipal Airport
+DIK:Dickinson Theodore Roosevelt Regional Airport
+DKK:Chautauqua County-Dunkirk Airport
+DLL:Dillon County Airport
+DLF:Laughlin Air Force Base
+DLH:Duluth International Airport
+DLN:Dillon Airport
+DLS:Columbia Gorge Regional Airport
+DMA:Davis Monthan Air Force Base
+DMN:Deming Municipal Airport
+DMO:Sedalia Memorial Airport
+DNL:Daniel Field
+DNN:Dalton Municipal Airport
+DNS:Denison Municipal Airport
+DNV:Vermilion Regional Airport
+DOV:Dover Civil Air Terminal/Dover Air Force Base
+DPA:Dupage Airport
+DPG:Michael AAF (Dugway Proving Ground) Airport
+DRA:Desert Rock Airport
+DRI:Beauregard Regional Airport
+DRE:Drummond Island Airport
+DRO:Durango La Plata County Airport
+DRT:Del Rio International Airport
+KDS:Kamaran Downs Airport
+DSM:Des Moines International Airport
+DSV:Dansville Municipal Airport
+DTA:Delta Municipal Airport
+DTL:Detroit Lakes Airport
+DTN:Shreveport Downtown Airport
+DSI:Destin Executive Airport
+DTW:Detroit Metropolitan Wayne County Airport
+DUA:Durant Regional Airport - Eaker Field
+DUC:Halliburton Field
+DUG:Bisbee Douglas International Airport
+DUJ:DuBois Regional Airport
+DVL:Devils Lake Regional Airport
+DVN:Davenport Municipal Airport
+NOT:Marin County Airport - Gnoss Field
+NSL:Slayton Municipal Airport
+DVT:Phoenix Deer Valley Airport
+KDW:Victoria Reservoir Seaplane Base
+DWH:David Wayne Hooks Memorial Airport
+DXR:Danbury Municipal Airport
+DYL:Doylestown Airport
+DYS:Dyess Air Force Base
+KDZ:Polgolla Reservoir Seaplane Base
+LBN:Lake Baringo (Kampi Ya Samaki) Airport
+VPG:Vipingo Estate Airport
+KTJ:Kichwa Tembo Airport
+OSJ:Ol Seki Naboisho Airstrip
+OLG:Olare Orok Airfield
+HKR:Mara North Conservancy Airstrip
+ANA:Angama Mara Airport
+MDR:Musiara Airstrip
+OLX:Mara-Olkiombo Airport
+KRV:Kerio Valley Airport
+KIU:Kiunga Airport
+LBK:Liboi Airport
+MIF:Roy Hurd Memorial Airport
+CCG:Crane County Airport
+ESO:Ohkay Owingeh Airport
+WTR:Whiteriver Airport
+ALE:Alpine Casparis Municipal Airport
+BGT:Bagdad Airport
+EAN:Phifer Airfield
+EAR:Kearney Regional Airport
+EAT:Pangborn Memorial Airport
+EAU:Chippewa Valley Regional Airport
+KEB:Nanwalek Airport
+EBS:Webster City Municipal Airport
+ECG:Elizabeth City Regional Airport & Coast Guard Air Station
+ECP:Northwest Florida Beaches International Airport
+ECS:Mondell Field
+EDE:Northeastern Regional Airport
+ETS:Enterprise Municipal Airport
+EDW:Edwards Air Force Base
+EED:Needles Airport
+EEN:Dillant Hopkins Airport
+EFD:Ellington Airport
+EFK:Northeast Kingdom International Airport
+EFW:Jefferson Municipal Airport
+EGE:Eagle County Regional Airport
+EGI:Duke Field
+EGV:Eagle River Union Airport
+KEK:Ekwok Airport
+EKA:Murray Field
+EKI:Elkhart Municipal Airport
+EKN:Elkins-Randolph County Regional Airport
+EKO:Elko Regional Airport
+EKX:Addington Field / Elizabethtown Regional Airport
+ELA:Eagle Lake Airport
+ELD:South Arkansas Regional Airport at Goodwin Field
+ELK:Elk City Regional Business Airport
+ELM:Elmira Corning Regional Airport
+ELN:Bowers Field
+LYU:Ely Municipal Airport
+ELP:El Paso International Airport
+ELY:Ely Airport Yelland Field
+ELZ:Wellsville Municipal Airport - Tarantine Field
+EMM:Kemmerer Municipal Airport
+EMP:Emporia Municipal Airport
+EMT:San Gabriel Valley Airport
+END:Vance Air Force Base
+ENL:Centralia Municipal Airport
+ENV:Wendover Airport
+ENW:Kenosha Regional Airport
+EOK:Keokuk Municipal Airport
+EOS:Neosho Hugh Robinson Airport
+EPH:Ephrata Municipal Airport
+EDK:Captain Jack Thomas El Dorado Airport
+ERI:Erie International Tom Ridge Field
+ERR:Errol Airport
+ERV:Kerrville / Kerr County Airport at Louis Schreiner Field
+ESC:Delta County Airport
+ESF:Esler Army Airfield / Esler Regional Airport
+ESN:Easton Airport / Newnam Field
+EST:Estherville Municipal Airport
+ESW:Easton State Airport
+ETB:West Bend Municipal Airport
+ETN:Eastland Municipal Airport
+EUF:Weedon Field
+EUG:Eugene Airport
+EVM:Eveleth–Virginia Municipal Airport
+EVV:Evansville Regional Airport
+EVW:Evanston-Uinta County Airport-Burns Field
+EWB:New Bedford Regional Airport
+EWK:Newton City-County Airport
+EWN:Coastal Carolina Regional Airport
+EWR:Newark Liberty International Airport
+EYW:Key West International Airport
+KEZ:Kelani-Peliyagoda Seaplane Base
+WIB:Wilbarger County Airport
+RBK:French Valley Airport
+FAF:Felker Army Air Field
+FAM:Farmington Regional Airport
+FAR:Hector International Airport
+FAT:Fresno Yosemite International Airport
+FAY:Fayetteville Regional Airport - Grannis Field
+FBG:Simmons Army Air Field
+FBL:Faribault Municipal Airport-Liz Wall Strohfus Field
+FBR:Fort Bridger Airport
+FBY:Fairbury Municipal Airport
+FCH:Fresno Chandler Executive Airport
+FCM:Flying Cloud Airport
+FCS:Butts AAF (Fort Carson) Air Field
+FCY:Forrest City Municipal Airport
+FDK:Frederick Municipal Airport
+FDR:Frederick Regional Airport
+FDY:Findlay Airport
+FEP:Albertus Airport
+FET:Fremont Municipal Airport
+FFA:First Flight Airport
+FFL:Fairfield Municipal Airport
+FFM:Fergus Falls Municipal Airport - Einar Mickelson Field
+FFO:Wright-Patterson Air Force Base
+FFT:Capital City Airport
+MSC:Falcon Field
+FRD:Friday Harbor Airport
+FHU:Sierra Vista Municipal Airport / Libby Army Air Field
+FKL:Venango Regional Airport
+FKN:Franklin Regional Airport
+FLD:Fond du Lac County Airport
+FLG:Flagstaff Pulliam Airport
+FLL:Fort Lauderdale Hollywood International Airport
+FLO:Florence Regional Airport
+FLP:Marion County Regional Airport
+FLV:Sherman Army Air Field
+FLX:Fallon Municipal Airport
+FME:Fort Meade Executive Airport
+FMH:Cape Cod Coast Guard Air Station
+FMN:Four Corners Regional Airport
+FMY:Page Field
+FNL:Northern Colorado Regional Airport
+FNT:Bishop International Airport
+FOD:Fort Dodge Regional Airport
+FOE:Topeka Regional Airport
+FOK:Francis S Gabreski Airport
+FIL:Fillmore Municipal Airport
+FPR:Treasure Coast International Airport
+FRG:Republic Airport
+FRH:French Lick Municipal Airport
+FRI:Marshall Army Air Field
+FRM:Fairmont Municipal Airport
+FRR:Front Royal Warren County Airport
+FSD:Sioux Falls Regional Airport
+FSI:Henry Post Army Air Field
+FSK:Fort Scott Municipal Airport
+FSM:Fort Smith Regional Airport
+FST:Fort Stockton Pecos County Airport
+FSU:Fort Sumner Municipal Airport
+FMS:Fort Madison Municipal Airport
+FTK:Godman Army Air Field
+FTW:Fort Worth Meacham International Airport
+FTY:Fulton County Airport Brown Field
+FUL:Fullerton Municipal Airport
+WFK:Northern Aroostook Regional Airport
+FWA:Fort Wayne International Airport
+FXE:Fort Lauderdale Executive Airport
+FXY:Forest City Municipal Airport
+FYM:Fayetteville Municipal Airport
+FYV:Drake Field
+GAB:Gabbs Airport
+GAD:Northeast Alabama Regional Airport
+GAG:Gage Heibeck Airport
+GAI:Montgomery County Airpark
+GBD:Great Bend Municipal Airport
+GBG:Galesburg Municipal Airport
+GBR:Walter J. Koladza Airport
+GCC:Northeast Wyoming Regional Airport
+JDA:Grant County Regional Airport / Ogilvie Field
+GCK:Garden City Regional Airport
+GCN:Grand Canyon National Park Airport
+GCY:Greeneville Municipal Airport
+GDM:Gardner Municipal Airport
+GDV:Dawson Community Airport
+GDW:Gladwin Zettel Memorial Airport
+GED:Delaware Coastal Airport
+GEG:Spokane International Airport
+GEY:South Big Horn County Airport
+GFA:Malmstrom Air Force Base
+GFD:Pope Field
+GFK:Grand Forks International Airport
+GFL:Floyd Bennett Memorial Airport
+GGE:Georgetown County Airport
+GGG:East Texas Regional Airport
+GGW:Glasgow Valley County Airport Wokal Field
+GHM:Centerville Municipal Airport
+IDH:Idaho County Airport
+GIF:Winter Haven Regional Airport - Gilbert Field
+GJT:Grand Junction Regional Airport
+MEJ:Port Meadville Airport
+GKT:Gatlinburg-Pigeon Forge Airport
+GLD:Goodland Municipal Airport
+GLE:Gainesville Municipal Airport
+GLH:Mid Delta Regional Airport
+GLR:Gaylord Regional Airport
+GLS:Scholes International At Galveston Airport
+GLW:Glasgow Municipal Airport
+GMU:Greenville Downtown Airport
+GNG:Gooding Municipal Airport
+GNT:Grants-Milan Municipal Airport
+GNV:Gainesville Regional Airport
+GOK:Guthrie-Edmond Regional Airport
+GON:Groton New London Airport
+FCA:Glacier Park International Airport
+GPT:Gulfport Biloxi International Airport
+GPZ:Grand Rapids Itasca Co-Gordon Newstrom field
+GQQ:Galion Municipal Airport
+GRB:Austin Straubel International Airport
+GRD:Greenwood County Airport
+GRE:Greenville Airport
+GRF:Gray Army Air Field
+GRI:Central Nebraska Regional Airport
+GRK:Killeen Regional Airport / Robert Gray Army Airfield
+GRN:Gordon Municipal Airport
+GRR:Gerald R. Ford International Airport
+GSB:Seymour Johnson Air Force Base
+GSH:Goshen Municipal Airport
+GSO:Piedmont Triad International Airport
+GSP:Greenville-Spartanburg International Airport
+GTF:Great Falls International Airport
+GTG:Grantsburg Municipal Airport
+GTR:Golden Triangle Regional Airport
+GUC:Gunnison Crested Butte Regional Airport
+GUP:Gallup Municipal Airport
+GUS:Grissom Air Reserve Base
+GUY:Guymon Municipal Airport
+GVE:Gordonsville Municipal Airport
+GVL:Lee Gilmer Memorial Airport
+GVT:Majors Airport
+GWO:Greenwood–Leflore Airport
+GWS:Glenwood Springs Municipal Airport
+KGX:Grayling Airport
+GXY:Greeley–Weld County Airport
+GDC:Donaldson Field Airport
+PNX:North Texas Regional Airport Perrin Field
+GYR:Phoenix Goodyear Airport
+GYY:Gary/Chicago International Airport
+KGZ:Glacier Creek Airport
+DSY:Dara Sakor International Airport
+KTI:Techo International Airport
+HAB:Marion County Rankin Fite Airport
+HAF:Half Moon Bay Airport
+HAI:Three Rivers Municipal Dr Haines Airport
+HAO:Butler Co Regional Airport - Hogan Field
+HBG:Hattiesburg Bobby L Chain Municipal Airport
+HBR:Hobart Regional Airport
+HDE:Brewster Field
+HDN:Yampa Valley Airport
+HEE:Thompson-Robbins Airport
+MNZ:Manassas Regional Airport/Harry P. Davis Field
+HEZ:Natchez–Adams County Airport / Hardy-Anders Field
+HFD:Hartford Brainard Airport
+HFF:Mackall Army Air Field
+HGR:Hagerstown Regional Richard A Henson Field
+HHR:Jack Northrop Field Hawthorne Municipal Airport
+HUJ:Stan Stamper Municipal Airport
+HIB:Range Regional Airport
+HIE:Mount Washington Regional Airport
+HIF:Hill Air Force Base
+HII:Lake Havasu City Airport
+HIO:Portland Hillsboro Airport
+HKA:Blytheville Municipal Airport
+HKS:Hawkins Field
+HKY:Hickory Regional Airport
+HLB:Batesville Airport
+HLC:Hill City Municipal Airport
+HLG:Wheeling Ohio County Airport
+HLN:Helena Regional Airport
+HLR:Hood Army Air Field
+HMN:Holloman Air Force Base
+HMT:Hemet Ryan Airport
+HNB:Huntingburg Airport
+HSH:Henderson Executive Airport
+HOB:Lea County Regional Airport
+HON:Huron Regional Airport
+HOP:Campbell Army Airfield (Fort Campbell)
+HOT:Memorial Field Airport
+HOU:William P. Hobby Airport
+HPN:Westchester County Airport
+HPT:Hampton Municipal Airport
+HPY:Baytown Airport
+HQM:Bowerman Airport
+HES:Hermiston Municipal Airport
+HRL:Valley International Airport
+HRO:Boone County Airport
+HSB:Harrisburg-Raleigh Airport
+HNC:Billy Mitchell Airport
+THP:Hot Springs County Airport
+HSI:Hastings Municipal Airport
+HSP:Ingalls Field
+HST:Homestead Air Reserve Base
+HSV:Huntsville International Airport
+HTH:Hawthorne Industrial Airport
+HTL:Roscommon County - Blodgett Memorial Airport
+HTO:Town of East Hampton Airport
+HTS:Tri-State Airport / Milton J. Ferguson Field
+HTW:Lawrence County Airpark
+HUA:Redstone Army Air Field
+HUF:Terre Haute Regional Airport, Hulman Field
+HUL:Houlton International Airport
+HUM:Houma Terrebonne Airport
+HUT:Hutchinson Municipal Airport
+HVE:Hanksville Airport
+HVN:Tweed New Haven Airport
+HVR:Havre City County Airport
+HVS:Hartsville Regional Airport
+HWD:Hayward Executive Airport
+HWO:North Perry Airport
+WSH:Brookhaven Calabro Airport
+HHH:Hilton Head Airport
+HYA:Cape Cod Gateway Airport
+HYR:Sawyer County Airport
+HYS:Hays Regional Airport
+HZL:Hazleton Municipal Airport
+JFN:Northeast Ohio Regional Airport
+IAB:McConnell Air Force Base
+IAD:Washington Dulles International Airport
+IAG:Niagara Falls International Airport
+IAH:George Bush Intercontinental Airport
+KIB:Ivanof Bay Seaplane Base
+ICL:Schenck Field
+ICT:Wichita Dwight D. Eisenhower National Airport
+IDA:Idaho Falls Regional Airport
+IDG:Ida Grove Municipal Airport
+IDI:Indiana County–Jimmy Stewart Airport
+IDP:Independence Municipal Airport
+XPR:Pine Ridge Airport
+IFA:Iowa Falls Municipal Airport
+IFP:Laughlin Bullhead International Airport
+IGM:Kingman Airport
+IJX:Jacksonville Municipal Airport
+IKK:Greater Kankakee Airport
+KIL:Kilwa Airport
+ILE:Skylark Field
+ILG:Wilmington Airport
+ILM:Wilmington International Airport
+ILN:Wilmington Airpark
+IML:Imperial Municipal Airport
+IMM:Immokalee Regional Airport
+MDN:Madison Municipal Airport
+IMT:Ford Airport
+IND:Indianapolis International Airport
+INK:Winkler County Airport
+INL:Falls International Airport
+INS:Creech Air Force Base
+INT:Smith Reynolds Airport
+INW:Winslow Lindbergh Regional Airport
+IOW:Iowa City Municipal Airport
+IPL:Imperial County Airport
+IPT:Williamsport Regional Airport
+IRK:Kirksville Regional Airport
+IRS:Kirsch Municipal Airport
+ISM:Kissimmee Gateway Airport
+ISO:Kinston Regional Jetport At Stallings Field
+ISP:Long Island MacArthur Airport
+ISQ:Schoolcraft County Airport
+ISW:Alexander Field South Wood County Airport
+ITH:Ithaca Tompkins Regional Airport
+AZA:Mesa Gateway Airport
+IWD:Gogebic Iron County Airport
+ISS:Wiscasset Airport
+IWS:West Houston Airport
+JCI:New Century AirCenter Airport
+IYK:Inyokern Airport
+SQA:Santa Ynez Airport
+FRY:Eastern Slopes Regional Airport
+JAC:Jackson Hole Airport
+JAN:Jackson-Medgar Wiley Evers International Airport
+JAS:Jasper County Airport Bell Field
+JAX:Jacksonville International Airport
+JBR:Jonesboro Municipal Airport
+JCT:Kimble County Airport
+JDN:Jordan Airport
+JEF:Jefferson City Memorial Airport
+JFK:John F. Kennedy International Airport
+JHW:Chautauqua County-Jamestown Airport
+GUF:Jack Edwards National Airport
+JLN:Joplin Regional Airport
+JMS:Jamestown Regional Airport
+JOT:Joliet Regional Airport
+USA:Concord-Padgett Regional Airport
+JKV:Cherokee County Airport
+JST:John Murtha Johnstown Cambria County Airport
+JVL:Southern Wisconsin Regional Airport
+KJX:Kuala Batu Airport
+JXN:Jackson County Airport/Reynolds Field
+OSB:Grand Glaize Osage Beach Airport
+KKB:Kitoi Bay Seaplane Base
+KIC:Mesa Del Rey Airport
+KKL:Karluk Lake Seaplane Base
+KLS:Southwest Washington Regional Airport
+KNB:Kanab Municipal Airport
+KKU:Ekuk Airport
+DTH:Furnace Creek Airport
+BXS:Borrego Valley Airport
+RBF:Big Bear City Airport
+MYH:Marble Canyon Airport
+TRH:Trona Airport
+LAA:Southeast Colorado Regional Airport
+LAF:Purdue University Airport
+LAL:Lakeland Linder International Airport
+LAM:Los Alamos Airport
+LAN:Capital Region International Airport
+LAR:Laramie Regional Airport
+LAS:Harry Reid International Airport
+LAW:Lawton Fort Sill Regional Airport
+LAX:Los Angeles International Airport
+LBB:Lubbock Preston Smith International Airport
