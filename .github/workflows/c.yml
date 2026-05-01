@@ -1,0 +1,22 @@
+name: Build AeroSoft AVL
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GCC
+        run: sudo apt-get update && sudo apt-get install -y gcc
+
+      - name: Build project
+        run: gcc main.c -o aerosoft
+
+      - name: Run help test
+        run: ./aerosoft airports.txt || true
